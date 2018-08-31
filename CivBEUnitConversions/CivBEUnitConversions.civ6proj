@@ -17,12 +17,1922 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <AssemblyName>CivBEUnitConversions</AssemblyName>
     <RootNamespace>CivBEUnitConversions</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="BEUnitsDB"><File>Data/UnitsData.sql</File></UpdateDatabase><UpdateArt id="BEUnitsArt"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Unit_Bins.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Units.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Aegis.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ambassador.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\ANGEL.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Apostle.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Aquilon.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Arbiter.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Architect.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Argo.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Armor.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Artillery.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Autosled.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Barb_Alien.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Baron.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Bastion.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Battlesuit.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Battlesuit_Standard_Bearer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Brawler.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Broadside.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Cannonade.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Carrier.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\CARVR.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Centaur.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Centurion.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Champion.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\CNDR.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Cobra.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Colonist.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Colonist_Oceanic.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Combat_Rover.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Countess.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Cruiser.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Cutter.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Destroyer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Devastator.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Disciple.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dragoon.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dreadnought.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Drone.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dronelast.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Drone_Cage.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Edict.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Educator.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Eidolon.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Embarked_Ship.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Embarked_Ship_Harmony.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Embarked_Ship_Purity.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Embarked_Ship_Supremacy.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Eradicator.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Executor.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Explorer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Explorer_Oceanic.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Fury.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Geliopod.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Gladiator.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Golem.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ground_Rocktopus.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Guardian.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Gunboat.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Gunner.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hellion.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Herald.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydra.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level1.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level2.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level3.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Immortal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Kodiak.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Kraken.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Lancer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Land_Trader.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Land_Trader_F1.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Leviathan.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\LEV_Destroyer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\LEV_Tank.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Locust.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Lurker.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Maestro.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Land.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Mako.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Manticore.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Marauder.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Marine.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Minotaur.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Missile_Rover.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Nano_Hive.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Needlejet.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Orbital_Rocktopus.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Overseer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Patrol_Boat.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Poseidon.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Predator.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Prophet.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Punisher.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Raider.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ranger.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Raptor_Bug.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Reaver.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Redeemer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ripper.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\SABR.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Econ_Holomatrix.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Econ_Orbital_Fabricator.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Econ_Solar_Collector.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Econ_Weather_Controller.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Mil_Orbital_Laser.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Mil_Phasal_Transporter.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Mil_Planet_Carver.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Mil_Tacnet_Hub.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Orbital_Comm_Relay.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Orbital_Health_Fixer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Orbital_Spy_Satellite.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Orbital_Station_Sentinel.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Orbital_Xeno_Siren.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Res_All_Seeing_Eye.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Res_Deep_Space_Telescope.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Res_Lasercom_Satellite.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Res_Miasmic_Condenser.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Res_Miasmic_Repulsor.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Satellite_Rocket.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Savage.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Screamer.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sea_Dragon.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sea_Trader.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sentinel.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Seraph.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Shepherd.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Shredder.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Shrike.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Shroud.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Siege_Worm.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Soldier.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Striker.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Submarine.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Tacjet.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Tenet.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Throne.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Tidehunter.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Triton.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Undertaker.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Vindicator.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Viper.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Virtuoso.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Vortex.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Warden.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Whisper.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Wolf_Beetle.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Worker.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Work_Boat.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Wrath.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Cavalry.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Titan.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\UnitsData.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\aegis.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\aegis.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\air_fighter04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\alien_flyer.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\alien_flyer.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\alien_flyer_last.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\alien_flyer_last.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\amphibian.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\amphibian.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\amphibian_land.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\amphibian_land.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\angel.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\angel.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\aquilion.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\aquilion.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\architect.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\architect.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\autosled.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\autosled.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\barbalien.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\barbalien.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\battlesuit_guard.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\battlesuit_guard.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\battlesuit_standardbearer.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\battlesuit_standardbearer.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\bombardier_bug.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\bombardier_bug.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\carvr.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\carvr.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04hs.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04hs.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04ph.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04ph.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04sp.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cavalry04sp.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cndr.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\cndr.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\colonist.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\colonist.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\colonist_oceanic.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\colonist_oceanic.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\dronecage.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\dronecage.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarkedship03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarkedship03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarkedship03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarkedship03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarkedship03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarkedship03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarked_ship.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\embarked_ship.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\explorer.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\explorer.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\explorer_oceanic.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\explorer_oceanic.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\geliopod.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\geliopod.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\golem.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\golem.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\ground_rocktopus.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\ground_rocktopus.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\hydracoral_lvl1.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\hydracoral_lvl1.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\hydracoral_lvl2.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\hydracoral_lvl2.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\hydracoral_lvl3.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\hydracoral_lvl3.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\immortal.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\immortal.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\kraken.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\kraken.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\land_trader.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\land_trader.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\land_trader_f1.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\land_trader_f1.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\lev_destroyer.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\lev_destroyer.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\lev_tank.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\lev_tank.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04hs.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04hs.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04ph.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04ph.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04sp.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\marine04sp.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\nanohive.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\nanohive.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalfighter04hs.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalfighter04hs.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalfighter04ph.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalfighter04ph.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalfighter04sp.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalfighter04sp.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04hs.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04hs.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04ph.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04ph.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04sp.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee04sp.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee_03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee_03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee_03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee_03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee_03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\navalmelee_03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_carrier03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\naval_fighter04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\orbital_rocktopus.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\orbital_rocktopus.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\podhunter.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\podhunter.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04hs.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04hs.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04ph.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04ph.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04sp.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\rangedmarine04sp.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\raptor_bug.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\raptor_bug.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sabr.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sabr.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_holomatrix.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_holomatrix.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_orbital_fabricator.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_orbital_fabricator.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_solar_collector.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_solar_collector.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_weather_controller.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_econ_weather_controller.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_orbital_laser.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_orbital_laser.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_phasal_transporter.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_phasal_transporter.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_planet_carver.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_planet_carver.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_tacnet_hub.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_mil_tacnet_hub.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_comm_relay.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_comm_relay.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_health_fixer.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_health_fixer.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_spy_satellite.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_spy_satellite.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_station_sentinel.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_station_sentinel.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_xeno_siren.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_orbital_xeno_siren.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_all_seeing_eye.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_all_seeing_eye.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_deep_space_telescope.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_deep_space_telescope.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_lasercom_satellite.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_lasercom_satellite.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_miasmic_condenser.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_miasmic_condenser.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_miasmic_repulsor.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_res_miasmic_repulsor.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_rocket.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\satellite_rocket.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sea_colossus.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sea_colossus.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sea_trader.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sea_trader.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege_worm.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\siege_worm.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\stub_cavalry01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\stub_cavalry01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\stub_marine01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\stub_marine01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub01.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub01.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub02.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub02.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub03p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub03p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub03s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub03s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub04p.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub04p.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub04s.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub04s.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub_03h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub_03h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub_04h.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\sub_04h.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\throne.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\throne.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\wolf_beetle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\wolf_beetle.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\workboat.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\workboat.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\worker.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\worker.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\xenocavalry.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\xenocavalry.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\xenos_titan.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\xenos_titan.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Aegis_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\AirFighter01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\AirFighter02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Air_Fighter03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Air_Fighter03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Air_Fighter03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Air_Fighter04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Air_Fighter04S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Alien_flyer_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Aquilion_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Aquilion_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Architect_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Aug_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Autosled_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Barbalien_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Battlesuit_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\bazzalien_diff_000.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\BombardierBug_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\CARVR_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry04HS_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry04H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry04SP_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Cavalry04S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Civilian_Oceanic_Colonist_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Colonist_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Dig_Site_props_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\DroneCage_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\DroneCage_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Embarked_Ship03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Embarked_Ship03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Embarked_Ship03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Embarked_Ship_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Explorer_Char_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Explorer_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Explorer_Oceanic_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Geliopod_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Geliopod_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Golem_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Golem_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\HarmonyAirFighter4_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Hydracoral_Diff.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Immortal_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Kraken_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Land_Trader_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\LevTank_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Lev_Destroyer_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Lev_Destroyer_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine04HS_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine04H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine04PH_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine04SP_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Marine04S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\MarineRanged03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\MarineWeapon02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NanoHive_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NanoHive_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalCarrier02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalCarrier02_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalFighter04HS_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalFighter04HS_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalFighter04PH_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalFighter04PH_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalFighter04SP_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalFighter04SP_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee04HS_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee04H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee04PH_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee_03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\NavalMelee_04PS_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Carrier03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Carrier03H_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Carrier03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Carrier03P_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Carrier03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Carrier03S_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter01_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter02_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter03H_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter03P_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter03S_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter04H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter04H_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter04P_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter04S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Fighter04S_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Melee_02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Melee_03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Naval_Melee_04S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\OrbitalUnitsXP1_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\PH_Calvary_Diff.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine04HP_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine04HS_Diff.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine04SP_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RangedMarine04S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Ranged_Marine03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Ranged_Marine04H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Raptor_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Rocktopus_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SABR_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SatelliteGantry_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SatelliteRocket_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Satellite_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SeaColussus_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sea_Trader_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege03H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege04H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Siege04S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SiegeWorm_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Stub_Cavalry01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Stub_Marine01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub01_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub01_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub04H_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub04H_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub04S_Diff.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub04S_Diff_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Submarine04P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Submarine04P_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Submarine_03S_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Submarine_03S_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub_02_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub_02_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub_03H_Diff.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub_03H_Diff_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub_03P_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Sub_03P_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Tadster_diff_000.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Throne_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Throne_DIFF_DMG.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Ultron_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Ultron_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\wolfBeetle_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\WorkBoat_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Worker_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenocavalry_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\units.xlp">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Assets\" />
+    <Folder Include="Data\" />
+    <Folder Include="Geometries\" />
+    <Folder Include="Materials\" />
+    <Folder Include="XLPs\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
 </Project>
