@@ -655,7 +655,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Submarine04P_DIFF"/>
-						<m_MeshName text="Sub04P#M"/>
+						<m_MeshName text="Sub04P"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Siege04H_DIFF"/>
-<m_MeshName text="Siege04H#M"/>
+<m_MeshName text="Siege04H"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

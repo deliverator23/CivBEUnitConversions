@@ -68,6 +68,18 @@
     <Content Include="Assets\Barb_Alien.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Barb_Alien_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Barb_Alien_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Barb_Alien_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Barb_Alien_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Baron.ast">
       <SubType>Content</SubType>
     </Content>
@@ -149,7 +161,31 @@
     <Content Include="Assets\Dronelast.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Dronelast_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dronelast_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dronelast_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dronelast_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Drone_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Drone_Cage.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Drone_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Drone_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Drone_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Edict.ast">
@@ -200,6 +236,18 @@
     <Content Include="Assets\Ground_Rocktopus.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Ground_Rocktopus_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ground_Rocktopus_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ground_Rocktopus_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ground_Rocktopus_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Guardian.ast">
       <SubType>Content</SubType>
     </Content>
@@ -221,10 +269,46 @@
     <Content Include="Assets\Hydracoral_Level1.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Hydracoral_Level1_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level1_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level1_Lush.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level1_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Hydracoral_Level2.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Hydracoral_Level2_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level2_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level2_Lush.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level2_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Hydracoral_Level3.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level3_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level3_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level3_Lush.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Hydracoral_Level3_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Immortal.ast">
@@ -234,6 +318,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Kraken.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Kraken_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Kraken_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Kraken_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Kraken_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Lancer.ast">
@@ -266,13 +362,49 @@
     <Content Include="Assets\Makara.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Makara_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Makara_Land.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Land_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Land_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Land_Lush.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Land_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Lush.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Makara_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Mako.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Manticore.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Manticore_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Manticore_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Manticore_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Manticore_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Marauder.ast">
@@ -294,6 +426,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Orbital_Rocktopus.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Orbital_Rocktopus_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Orbital_Rocktopus_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Orbital_Rocktopus_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Orbital_Rocktopus_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Overseer.ast">
@@ -323,6 +467,18 @@
     <Content Include="Assets\Raptor_Bug.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Raptor_Bug_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Raptor_Bug_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Raptor_Bug_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Raptor_Bug_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Reaver.ast">
       <SubType>Content</SubType>
     </Content>
@@ -330,6 +486,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Ripper.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ripper_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ripper_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ripper_Lush.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Ripper_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\SABR.ast">
@@ -401,6 +569,18 @@
     <Content Include="Assets\Sea_Dragon.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Sea_Dragon_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sea_Dragon_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sea_Dragon_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Sea_Dragon_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Sea_Trader.ast">
       <SubType>Content</SubType>
     </Content>
@@ -423,6 +603,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Siege_Worm.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Siege_Worm_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Siege_Worm_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Siege_Worm_Lush.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Siege_Worm_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Soldier.ast">
@@ -473,6 +665,18 @@
     <Content Include="Assets\Wolf_Beetle.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Wolf_Beetle_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Wolf_Beetle_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Wolf_Beetle_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Wolf_Beetle_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Worker.ast">
       <SubType>Content</SubType>
     </Content>
@@ -485,7 +689,31 @@
     <Content Include="Assets\Xeno_Cavalry.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Xeno_Cavalry_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Cavalry_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Cavalry_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Cavalry_Primordial.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Xeno_Titan.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Titan_Arid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Titan_Frigid.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Titan_Fungal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Xeno_Titan_Primordial.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Data\UnitsData.sql">
@@ -1442,6 +1670,18 @@
     <Content Include="Materials\Alien_flyer_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Alien_flyer_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Alien_flyer_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Alien_flyer_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Alien_flyer_DIFF_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Aquilion_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -1460,13 +1700,49 @@
     <Content Include="Materials\Barbalien_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Barbalien_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Barbalien_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Barbalien_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Barbalien_DIFF_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Battlesuit_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\bazzalien_diff_000.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\bazzalien_diff_000_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\bazzalien_diff_000_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\bazzalien_diff_000_Lush.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\bazzalien_diff_000_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\BombardierBug_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\BombardierBug_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\BombardierBug_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\BombardierBug_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\BombardierBug_DIFF_Primordial.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\CARVR_DIFF.mtl">
@@ -1556,10 +1832,34 @@
     <Content Include="Materials\Hydracoral_Diff.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Hydracoral_Diff_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Hydracoral_Diff_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Hydracoral_Diff_Lush.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Hydracoral_Diff_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Immortal_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Kraken_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Kraken_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Kraken_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Kraken_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Kraken_DIFF_Primordial.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Land_Trader_DIFF.mtl">
@@ -1781,7 +2081,31 @@
     <Content Include="Materials\Raptor_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Raptor_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Raptor_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Raptor_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Raptor_DIFF_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Rocktopus_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Rocktopus_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Rocktopus_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Rocktopus_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Rocktopus_DIFF_Primordial.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\SABR_DIFF.mtl">
@@ -1797,6 +2121,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\SeaColussus_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SeaColussus_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SeaColussus_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SeaColussus_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SeaColussus_DIFF_Primordial.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Sea_Trader_DIFF.mtl">
@@ -1827,6 +2163,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\SiegeWorm_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SiegeWorm_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SiegeWorm_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SiegeWorm_DIFF_Lush.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\SiegeWorm_DIFF_Primordial.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Stub_Cavalry01_DIFF.mtl">
@@ -1886,6 +2234,18 @@
     <Content Include="Materials\Tadster_diff_000.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Tadster_diff_000_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Tadster_diff_000_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Tadster_diff_000_Lush.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Tadster_diff_000_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Throne_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -1901,6 +2261,18 @@
     <Content Include="Materials\wolfBeetle_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\wolfBeetle_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\wolfBeetle_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\wolfBeetle_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\wolfBeetle_DIFF_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\WorkBoat_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -1913,13 +2285,61 @@
     <Content Include="Materials\Xenos_Titan_bot_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DIFF_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Xenos_Titan_bot_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DMG_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DMG_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DMG_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_bot_DMG_DIFF_Primordial.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Xenos_Titan_top_DIFF.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\Xenos_Titan_top_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DIFF_Primordial.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\Xenos_Titan_top_DMG_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DMG_DIFF_Arid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DMG_DIFF_Frigid.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DMG_DIFF_Fungal.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Xenos_Titan_top_DMG_DIFF_Primordial.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="XLPs\units.xlp">

@@ -655,7 +655,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Sub04S_Diff"/>
-						<m_MeshName text="Sub_04S#M"/>
+						<m_MeshName text="Sub_04S"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

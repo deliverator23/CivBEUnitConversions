@@ -730,7 +730,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine01_DIFF.001"/>
-<m_MeshName text="Marine01#M"/>
+<m_MeshName text="Marine01"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -744,7 +744,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine01_DIFF.001"/>
-<m_MeshName text="Marine01_02#M"/>
+<m_MeshName text="Marine01_02"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -758,7 +758,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="RangedMarine01_DIFF"/>
-<m_MeshName text="RangedMarine_SniperRifle#M"/>
+<m_MeshName text="RangedMarine_SniperRifle"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -772,7 +772,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="RangedMarine01_DIFF"/>
-<m_MeshName text="RangedMarine_TargetPainter#M"/>
+<m_MeshName text="RangedMarine_TargetPainter"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

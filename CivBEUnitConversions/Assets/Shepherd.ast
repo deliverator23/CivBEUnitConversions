@@ -610,7 +610,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Naval_Carrier03S_DIFF"/>
-						<m_MeshName text="Naval_Carrier03S#M"/>
+						<m_MeshName text="Naval_Carrier03S"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

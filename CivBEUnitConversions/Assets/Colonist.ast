@@ -415,7 +415,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Colonist_DIFF"/>
-<m_MeshName text="Colonist_Closed#M"/>
+<m_MeshName text="Colonist_Closed"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

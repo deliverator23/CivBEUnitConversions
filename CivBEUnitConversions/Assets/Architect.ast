@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Architect_DIFF"/>
-<m_MeshName text="Architect_Soldier#M"/>
+<m_MeshName text="Architect_Soldier"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -714,7 +714,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Architect_DIFF"/>
-<m_MeshName text="Architect_Spy#M"/>
+<m_MeshName text="Architect_Spy"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -728,7 +728,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Architect_DIFF"/>
-<m_MeshName text="Can#M"/>
+<m_MeshName text="Can"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -742,7 +742,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Architect_DIFF"/>
-<m_MeshName text="Pistol#M"/>
+<m_MeshName text="Pistol"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -756,7 +756,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Architect_DIFF"/>
-<m_MeshName text="Rifle#M"/>
+<m_MeshName text="Rifle"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

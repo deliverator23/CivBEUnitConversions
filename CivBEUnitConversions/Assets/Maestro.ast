@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Cavalry04SP_DIFF"/>
-<m_MeshName text="Cavalry04SP#M"/>
+<m_MeshName text="Cavalry04SP"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

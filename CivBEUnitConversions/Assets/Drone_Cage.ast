@@ -730,7 +730,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="DroneCage_DIFF"/>
-						<m_MeshName text="Drone_A#M"/>
+						<m_MeshName text="Drone_A"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
@@ -744,7 +744,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="DroneCage_DIFF"/>
-						<m_MeshName text="Drone_B#M"/>
+						<m_MeshName text="Drone_B"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
@@ -758,7 +758,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="DroneCage_DIFF"/>
-						<m_MeshName text="DroneCage_Soldier#M"/>
+						<m_MeshName text="DroneCage_Soldier"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
@@ -772,7 +772,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="DroneCage_DIFF"/>
-						<m_MeshName text="Pistol#M"/>
+						<m_MeshName text="Pistol"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
@@ -786,7 +786,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="DroneCage_DIFF"/>
-						<m_MeshName text="Shield#M"/>
+						<m_MeshName text="Shield"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

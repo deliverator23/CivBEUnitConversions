@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects:XLP>
+<AssetObjects..XLP>
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
@@ -9,923 +9,923 @@
 	<m_ClassName text="Unit"/>
 	<m_PackageName text="units/units"/>
 	<m_Entries>
-<Element>
+		<Element>
 			<m_EntryID text="Aegis"/>
 			<m_ObjectName text="Aegis"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ambassador"/>
 			<m_ObjectName text="Ambassador"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="ANGEL"/>
 			<m_ObjectName text="ANGEL"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Apostle"/>
 			<m_ObjectName text="Apostle"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Aquilon"/>
 			<m_ObjectName text="Aquilon"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Arbiter"/>
 			<m_ObjectName text="Arbiter"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Architect"/>
 			<m_ObjectName text="Architect"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Argo"/>
 			<m_ObjectName text="Argo"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Armor"/>
 			<m_ObjectName text="Armor"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Artillery"/>
 			<m_ObjectName text="Artillery"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Autosled"/>
 			<m_ObjectName text="Autosled"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Barb_Alien"/>
 			<m_ObjectName text="Barb_Alien"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Barb_Alien_Arid"/>
 			<m_ObjectName text="Barb_Alien_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Barb_Alien_Frigid"/>
 			<m_ObjectName text="Barb_Alien_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Barb_Alien_Fungal"/>
 			<m_ObjectName text="Barb_Alien_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Barb_Alien_Primordial"/>
 			<m_ObjectName text="Barb_Alien_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Baron"/>
 			<m_ObjectName text="Baron"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Bastion"/>
 			<m_ObjectName text="Bastion"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Battlesuit"/>
 			<m_ObjectName text="Battlesuit"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Battlesuit_Standard_Bearer"/>
 			<m_ObjectName text="Battlesuit_Standard_Bearer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Brawler"/>
 			<m_ObjectName text="Brawler"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Broadside"/>
 			<m_ObjectName text="Broadside"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Cannonade"/>
 			<m_ObjectName text="Cannonade"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Carrier"/>
 			<m_ObjectName text="Carrier"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="CARVR"/>
 			<m_ObjectName text="CARVR"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Centaur"/>
 			<m_ObjectName text="Centaur"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Centurion"/>
 			<m_ObjectName text="Centurion"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Champion"/>
 			<m_ObjectName text="Champion"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="CNDR"/>
 			<m_ObjectName text="CNDR"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Cobra"/>
 			<m_ObjectName text="Cobra"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Colonist"/>
 			<m_ObjectName text="Colonist"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Colonist_Oceanic"/>
 			<m_ObjectName text="Colonist_Oceanic"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Combat_Rover"/>
 			<m_ObjectName text="Combat_Rover"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Countess"/>
 			<m_ObjectName text="Countess"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Cruiser"/>
 			<m_ObjectName text="Cruiser"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Cutter"/>
 			<m_ObjectName text="Cutter"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Destroyer"/>
 			<m_ObjectName text="Destroyer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Devastator"/>
 			<m_ObjectName text="Devastator"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Disciple"/>
 			<m_ObjectName text="Disciple"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Dragoon"/>
 			<m_ObjectName text="Dragoon"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Dreadnought"/>
 			<m_ObjectName text="Dreadnought"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Drone"/>
 			<m_ObjectName text="Drone"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Dronelast"/>
 			<m_ObjectName text="Dronelast"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Dronelast_Arid"/>
 			<m_ObjectName text="Dronelast_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Dronelast_Frigid"/>
 			<m_ObjectName text="Dronelast_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Dronelast_Fungal"/>
 			<m_ObjectName text="Dronelast_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Dronelast_Primordial"/>
 			<m_ObjectName text="Dronelast_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Drone_Arid"/>
 			<m_ObjectName text="Drone_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Drone_Cage"/>
 			<m_ObjectName text="Drone_Cage"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Drone_Frigid"/>
 			<m_ObjectName text="Drone_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Drone_Fungal"/>
 			<m_ObjectName text="Drone_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Drone_Primordial"/>
 			<m_ObjectName text="Drone_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Edict"/>
 			<m_ObjectName text="Edict"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Educator"/>
 			<m_ObjectName text="Educator"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Eidolon"/>
 			<m_ObjectName text="Eidolon"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Embarked_Ship"/>
 			<m_ObjectName text="Embarked_Ship"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Embarked_Ship_Harmony"/>
 			<m_ObjectName text="Embarked_Ship_Harmony"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Embarked_Ship_Purity"/>
 			<m_ObjectName text="Embarked_Ship_Purity"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Embarked_Ship_Supremacy"/>
 			<m_ObjectName text="Embarked_Ship_Supremacy"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Eradicator"/>
 			<m_ObjectName text="Eradicator"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Executor"/>
 			<m_ObjectName text="Executor"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Explorer"/>
 			<m_ObjectName text="Explorer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Explorer_Oceanic"/>
 			<m_ObjectName text="Explorer_Oceanic"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Fury"/>
 			<m_ObjectName text="Fury"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Geliopod"/>
 			<m_ObjectName text="Geliopod"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Gladiator"/>
 			<m_ObjectName text="Gladiator"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Golem"/>
 			<m_ObjectName text="Golem"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ground_Rocktopus"/>
 			<m_ObjectName text="Ground_Rocktopus"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ground_Rocktopus_Arid"/>
 			<m_ObjectName text="Ground_Rocktopus_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ground_Rocktopus_Frigid"/>
 			<m_ObjectName text="Ground_Rocktopus_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ground_Rocktopus_Fungal"/>
 			<m_ObjectName text="Ground_Rocktopus_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ground_Rocktopus_Primordial"/>
 			<m_ObjectName text="Ground_Rocktopus_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Guardian"/>
 			<m_ObjectName text="Guardian"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Gunboat"/>
 			<m_ObjectName text="Gunboat"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Gunner"/>
 			<m_ObjectName text="Gunner"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hellion"/>
 			<m_ObjectName text="Hellion"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Herald"/>
 			<m_ObjectName text="Herald"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydra"/>
 			<m_ObjectName text="Hydra"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level1"/>
 			<m_ObjectName text="Hydracoral_Level1"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level1_Frigid"/>
 			<m_ObjectName text="Hydracoral_Level1_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level1_Fungal"/>
 			<m_ObjectName text="Hydracoral_Level1_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level1_Lush"/>
 			<m_ObjectName text="Hydracoral_Level1_Lush"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level1_Primordial"/>
 			<m_ObjectName text="Hydracoral_Level1_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level2"/>
 			<m_ObjectName text="Hydracoral_Level2"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level2_Frigid"/>
 			<m_ObjectName text="Hydracoral_Level2_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level2_Fungal"/>
 			<m_ObjectName text="Hydracoral_Level2_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level2_Lush"/>
 			<m_ObjectName text="Hydracoral_Level2_Lush"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level2_Primordial"/>
 			<m_ObjectName text="Hydracoral_Level2_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level3"/>
 			<m_ObjectName text="Hydracoral_Level3"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level3_Frigid"/>
 			<m_ObjectName text="Hydracoral_Level3_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level3_Fungal"/>
 			<m_ObjectName text="Hydracoral_Level3_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level3_Lush"/>
 			<m_ObjectName text="Hydracoral_Level3_Lush"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Hydracoral_Level3_Primordial"/>
 			<m_ObjectName text="Hydracoral_Level3_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Immortal"/>
 			<m_ObjectName text="Immortal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Kodiak"/>
 			<m_ObjectName text="Kodiak"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Kraken"/>
 			<m_ObjectName text="Kraken"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Kraken_Arid"/>
 			<m_ObjectName text="Kraken_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Kraken_Frigid"/>
 			<m_ObjectName text="Kraken_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Kraken_Fungal"/>
 			<m_ObjectName text="Kraken_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Kraken_Primordial"/>
 			<m_ObjectName text="Kraken_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Lancer"/>
 			<m_ObjectName text="Lancer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Land_Trader"/>
 			<m_ObjectName text="Land_Trader"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Land_Trader_F1"/>
 			<m_ObjectName text="Land_Trader_F1"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Leviathan"/>
 			<m_ObjectName text="Leviathan"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="LEV_Destroyer"/>
 			<m_ObjectName text="LEV_Destroyer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="LEV_Tank"/>
 			<m_ObjectName text="LEV_Tank"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Locust"/>
 			<m_ObjectName text="Locust"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Lurker"/>
 			<m_ObjectName text="Lurker"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Maestro"/>
 			<m_ObjectName text="Maestro"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara"/>
 			<m_ObjectName text="Makara"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Arid"/>
 			<m_ObjectName text="Makara_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Frigid"/>
 			<m_ObjectName text="Makara_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Land"/>
 			<m_ObjectName text="Makara_Land"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Land_Arid"/>
 			<m_ObjectName text="Makara_Land_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Land_Frigid"/>
 			<m_ObjectName text="Makara_Land_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Land_Lush"/>
 			<m_ObjectName text="Makara_Land_Lush"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Land_Primordial"/>
 			<m_ObjectName text="Makara_Land_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Lush"/>
 			<m_ObjectName text="Makara_Lush"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Makara_Primordial"/>
 			<m_ObjectName text="Makara_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Mako"/>
 			<m_ObjectName text="Mako"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Manticore"/>
 			<m_ObjectName text="Manticore"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Manticore_Arid"/>
 			<m_ObjectName text="Manticore_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Manticore_Frigid"/>
 			<m_ObjectName text="Manticore_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Manticore_Fungal"/>
 			<m_ObjectName text="Manticore_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Manticore_Primordial"/>
 			<m_ObjectName text="Manticore_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Marauder"/>
 			<m_ObjectName text="Marauder"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Marine"/>
 			<m_ObjectName text="Marine"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Minotaur"/>
 			<m_ObjectName text="Minotaur"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Missile_Rover"/>
 			<m_ObjectName text="Missile_Rover"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Nano_Hive"/>
 			<m_ObjectName text="Nano_Hive"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Needlejet"/>
 			<m_ObjectName text="Needlejet"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Orbital_Rocktopus"/>
 			<m_ObjectName text="Orbital_Rocktopus"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Orbital_Rocktopus_Arid"/>
 			<m_ObjectName text="Orbital_Rocktopus_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Orbital_Rocktopus_Frigid"/>
 			<m_ObjectName text="Orbital_Rocktopus_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Orbital_Rocktopus_Fungal"/>
 			<m_ObjectName text="Orbital_Rocktopus_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Orbital_Rocktopus_Primordial"/>
 			<m_ObjectName text="Orbital_Rocktopus_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Overseer"/>
 			<m_ObjectName text="Overseer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Patrol_Boat"/>
 			<m_ObjectName text="Patrol_Boat"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Poseidon"/>
 			<m_ObjectName text="Poseidon"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Predator"/>
 			<m_ObjectName text="Predator"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Prophet"/>
 			<m_ObjectName text="Prophet"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Punisher"/>
 			<m_ObjectName text="Punisher"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Raider"/>
 			<m_ObjectName text="Raider"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ranger"/>
 			<m_ObjectName text="Ranger"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Raptor_Bug"/>
 			<m_ObjectName text="Raptor_Bug"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Raptor_Bug_Arid"/>
 			<m_ObjectName text="Raptor_Bug_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Raptor_Bug_Frigid"/>
 			<m_ObjectName text="Raptor_Bug_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Raptor_Bug_Fungal"/>
 			<m_ObjectName text="Raptor_Bug_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Raptor_Bug_Primordial"/>
 			<m_ObjectName text="Raptor_Bug_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Reaver"/>
 			<m_ObjectName text="Reaver"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Redeemer"/>
 			<m_ObjectName text="Redeemer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ripper"/>
 			<m_ObjectName text="Ripper"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ripper_Arid"/>
 			<m_ObjectName text="Ripper_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ripper_Frigid"/>
 			<m_ObjectName text="Ripper_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ripper_Lush"/>
 			<m_ObjectName text="Ripper_Lush"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Ripper_Primordial"/>
 			<m_ObjectName text="Ripper_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="SABR"/>
 			<m_ObjectName text="SABR"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Econ_Holomatrix"/>
 			<m_ObjectName text="Satellite_Econ_Holomatrix"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Econ_Orbital_Fabricator"/>
 			<m_ObjectName text="Satellite_Econ_Orbital_Fabricator"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Econ_Solar_Collector"/>
 			<m_ObjectName text="Satellite_Econ_Solar_Collector"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Econ_Weather_Controller"/>
 			<m_ObjectName text="Satellite_Econ_Weather_Controller"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Mil_Orbital_Laser"/>
 			<m_ObjectName text="Satellite_Mil_Orbital_Laser"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Mil_Phasal_Transporter"/>
 			<m_ObjectName text="Satellite_Mil_Phasal_Transporter"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Mil_Planet_Carver"/>
 			<m_ObjectName text="Satellite_Mil_Planet_Carver"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Mil_Tacnet_Hub"/>
 			<m_ObjectName text="Satellite_Mil_Tacnet_Hub"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Orbital_Comm_Relay"/>
 			<m_ObjectName text="Satellite_Orbital_Comm_Relay"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Orbital_Health_Fixer"/>
 			<m_ObjectName text="Satellite_Orbital_Health_Fixer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Orbital_Spy_Satellite"/>
 			<m_ObjectName text="Satellite_Orbital_Spy_Satellite"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Orbital_Station_Sentinel"/>
 			<m_ObjectName text="Satellite_Orbital_Station_Sentinel"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Orbital_Xeno_Siren"/>
 			<m_ObjectName text="Satellite_Orbital_Xeno_Siren"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Res_All_Seeing_Eye"/>
 			<m_ObjectName text="Satellite_Res_All_Seeing_Eye"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Res_Deep_Space_Telescope"/>
 			<m_ObjectName text="Satellite_Res_Deep_Space_Telescope"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Res_Lasercom_Satellite"/>
 			<m_ObjectName text="Satellite_Res_Lasercom_Satellite"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Res_Miasmic_Condenser"/>
 			<m_ObjectName text="Satellite_Res_Miasmic_Condenser"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Res_Miasmic_Repulsor"/>
 			<m_ObjectName text="Satellite_Res_Miasmic_Repulsor"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Satellite_Rocket"/>
 			<m_ObjectName text="Satellite_Rocket"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Savage"/>
 			<m_ObjectName text="Savage"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Screamer"/>
 			<m_ObjectName text="Screamer"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Sea_Dragon"/>
 			<m_ObjectName text="Sea_Dragon"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Sea_Dragon_Arid"/>
 			<m_ObjectName text="Sea_Dragon_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Sea_Dragon_Frigid"/>
 			<m_ObjectName text="Sea_Dragon_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Sea_Dragon_Fungal"/>
 			<m_ObjectName text="Sea_Dragon_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Sea_Dragon_Primordial"/>
 			<m_ObjectName text="Sea_Dragon_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Sea_Trader"/>
 			<m_ObjectName text="Sea_Trader"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Sentinel"/>
 			<m_ObjectName text="Sentinel"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Seraph"/>
 			<m_ObjectName text="Seraph"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Shepherd"/>
 			<m_ObjectName text="Shepherd"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Shredder"/>
 			<m_ObjectName text="Shredder"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Shrike"/>
 			<m_ObjectName text="Shrike"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Shroud"/>
 			<m_ObjectName text="Shroud"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Siege_Worm"/>
 			<m_ObjectName text="Siege_Worm"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Siege_Worm_Arid"/>
 			<m_ObjectName text="Siege_Worm_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Siege_Worm_Frigid"/>
 			<m_ObjectName text="Siege_Worm_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Siege_Worm_Lush"/>
 			<m_ObjectName text="Siege_Worm_Lush"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Siege_Worm_Primordial"/>
 			<m_ObjectName text="Siege_Worm_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Soldier"/>
 			<m_ObjectName text="Soldier"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Striker"/>
 			<m_ObjectName text="Striker"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Submarine"/>
 			<m_ObjectName text="Submarine"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Tacjet"/>
 			<m_ObjectName text="Tacjet"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Tenet"/>
 			<m_ObjectName text="Tenet"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Throne"/>
 			<m_ObjectName text="Throne"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Tidehunter"/>
 			<m_ObjectName text="Tidehunter"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Triton"/>
 			<m_ObjectName text="Triton"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Undertaker"/>
 			<m_ObjectName text="Undertaker"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Vindicator"/>
 			<m_ObjectName text="Vindicator"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Viper"/>
 			<m_ObjectName text="Viper"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Virtuoso"/>
 			<m_ObjectName text="Virtuoso"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Vortex"/>
 			<m_ObjectName text="Vortex"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Warden"/>
 			<m_ObjectName text="Warden"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Whisper"/>
 			<m_ObjectName text="Whisper"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Wolf_Beetle"/>
 			<m_ObjectName text="Wolf_Beetle"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Wolf_Beetle_Arid"/>
 			<m_ObjectName text="Wolf_Beetle_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Wolf_Beetle_Frigid"/>
 			<m_ObjectName text="Wolf_Beetle_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Wolf_Beetle_Fungal"/>
 			<m_ObjectName text="Wolf_Beetle_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Wolf_Beetle_Primordial"/>
 			<m_ObjectName text="Wolf_Beetle_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Worker"/>
 			<m_ObjectName text="Worker"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Work_Boat"/>
 			<m_ObjectName text="Work_Boat"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Wrath"/>
 			<m_ObjectName text="Wrath"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Cavalry"/>
 			<m_ObjectName text="Xeno_Cavalry"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Cavalry_Arid"/>
 			<m_ObjectName text="Xeno_Cavalry_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Cavalry_Frigid"/>
 			<m_ObjectName text="Xeno_Cavalry_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Cavalry_Fungal"/>
 			<m_ObjectName text="Xeno_Cavalry_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Cavalry_Primordial"/>
 			<m_ObjectName text="Xeno_Cavalry_Primordial"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Titan"/>
 			<m_ObjectName text="Xeno_Titan"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Titan_Arid"/>
 			<m_ObjectName text="Xeno_Titan_Arid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Titan_Frigid"/>
 			<m_ObjectName text="Xeno_Titan_Frigid"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Titan_Fungal"/>
 			<m_ObjectName text="Xeno_Titan_Fungal"/>
 		</Element>
-<Element>
+		<Element>
 			<m_EntryID text="Xeno_Titan_Primordial"/>
 			<m_ObjectName text="Xeno_Titan_Primordial"/>
 		</Element>
-</m_Entries>
+	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
 		<Element>LINUX</Element>
 		<Element>MACOS</Element>
 		<Element>IOS</Element>
 	</m_AllowedPlatforms>
-</AssetObjects:XLP>
+</AssetObjects..XLP>

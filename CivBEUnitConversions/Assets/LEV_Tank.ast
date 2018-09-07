@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="LevTank_DIFF"/>
-<m_MeshName text="lev_tank#M"/>
+<m_MeshName text="lev_tank"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

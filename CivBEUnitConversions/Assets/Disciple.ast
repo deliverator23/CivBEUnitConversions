@@ -730,7 +730,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03S_DIFF"/>
-<m_MeshName text="SupremacyMarine#M"/>
+<m_MeshName text="SupremacyMarine"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -744,7 +744,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03S_DIFF"/>
-<m_MeshName text="SupremacyMarineGun#M"/>
+<m_MeshName text="SupremacyMarineGun"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

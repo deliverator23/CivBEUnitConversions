@@ -415,7 +415,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Sea_Trader_DIFF"/>
-<m_MeshName text="Caravan_Ship#M"/>
+<m_MeshName text="Caravan_Ship"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -429,7 +429,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Sea_Trader_DIFF"/>
-<m_MeshName text="Sea Cargo#M"/>
+<m_MeshName text="Sea Cargo"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

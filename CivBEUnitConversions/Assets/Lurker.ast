@@ -655,7 +655,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Sub_03H_Diff"/>
-						<m_MeshName text="Sub03H#M"/>
+						<m_MeshName text="Sub03H"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

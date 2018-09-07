@@ -730,7 +730,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04PH_DIFF.001"/>
-<m_MeshName text="Marine04PH#M"/>
+<m_MeshName text="Marine04PH"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -744,7 +744,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04PH_DIFF.001"/>
-<m_MeshName text="Marine04PH_Rifle#M"/>
+<m_MeshName text="Marine04PH_Rifle"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -758,7 +758,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04PH_DIFF.001"/>
-<m_MeshName text="Marine04PH_Spotter#M"/>
+<m_MeshName text="Marine04PH_Spotter"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -772,7 +772,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="RangedMarine04HP_DIFF"/>
-<m_MeshName text="RangedMarine04PH#M"/>
+<m_MeshName text="RangedMarine04PH"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -786,7 +786,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="RangedMarine04HP_DIFF"/>
-<m_MeshName text="RangedMarine04PH_Ammo_Crate#M"/>
+<m_MeshName text="RangedMarine04PH_Ammo_Crate"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

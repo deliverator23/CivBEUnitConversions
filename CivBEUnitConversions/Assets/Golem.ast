@@ -700,7 +700,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Golem_DIFF"/>
-						<m_MeshName text="Golem#M"/>
+						<m_MeshName text="Golem"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

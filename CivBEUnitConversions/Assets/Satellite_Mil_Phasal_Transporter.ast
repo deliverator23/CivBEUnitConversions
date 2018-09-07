@@ -115,7 +115,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Satellite_DIFF.005"/>
-<m_MeshName text="Sat_mil_Phasal_Transporter#M"/>
+<m_MeshName text="Sat_mil_Phasal_Transporter"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

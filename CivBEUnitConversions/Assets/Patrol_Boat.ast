@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="NavalMelee01_DIFF"/>
-<m_MeshName text="Naval_Melee_01#M"/>
+<m_MeshName text="Naval_Melee_01"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

@@ -730,7 +730,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="MarineRanged03S_DIFF"/>
-<m_MeshName text="RangedMarine03S_Weapons#M"/>
+<m_MeshName text="RangedMarine03S_Weapons"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -744,7 +744,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03S_DIFF.001"/>
-<m_MeshName text="SupremacyMarine01#M"/>
+<m_MeshName text="SupremacyMarine01"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -758,7 +758,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03S_DIFF.001"/>
-<m_MeshName text="SupremacyMarineGun#M"/>
+<m_MeshName text="SupremacyMarineGun"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -772,7 +772,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03S_DIFF.001"/>
-<m_MeshName text="SupremacyTargeter#M"/>
+<m_MeshName text="SupremacyTargeter"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

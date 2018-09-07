@@ -730,7 +730,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Aegis_DIFF"/>
-						<m_MeshName text="AegisCape#M"/>
+						<m_MeshName text="AegisCape"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
@@ -744,7 +744,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Aegis_DIFF"/>
-						<m_MeshName text="AegisMech#M"/>
+						<m_MeshName text="AegisMech"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

@@ -730,7 +730,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03P_DIFF.001"/>
-<m_MeshName text="purityMarine#M"/>
+<m_MeshName text="purityMarine"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -744,7 +744,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03P_DIFF.001"/>
-<m_MeshName text="purityMarine01#M"/>
+<m_MeshName text="purityMarine01"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -758,7 +758,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Ranged_Marine03P_DIFF"/>
-<m_MeshName text="ranged_marine03P#M"/>
+<m_MeshName text="ranged_marine03P"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -772,7 +772,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine03P_DIFF.001"/>
-<m_MeshName text="Weapon 03P#M"/>
+<m_MeshName text="Weapon 03P"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

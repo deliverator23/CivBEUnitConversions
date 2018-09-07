@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Autosled_DIFF"/>
-<m_MeshName text="Autosled#M"/>
+<m_MeshName text="Autosled"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -714,7 +714,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Autosled_DIFF"/>
-<m_MeshName text="AutoSled_Cannister#M"/>
+<m_MeshName text="AutoSled_Cannister"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -728,7 +728,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04SP_DIFF"/>
-<m_MeshName text="Marine04SP#M"/>
+<m_MeshName text="Marine04SP"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -742,7 +742,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04SP_DIFF"/>
-<m_MeshName text="Marine04SP01#M"/>
+<m_MeshName text="Marine04SP01"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -756,7 +756,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04SP_DIFF"/>
-<m_MeshName text="Rifle04SP01#M"/>
+<m_MeshName text="Rifle04SP01"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

@@ -730,7 +730,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Throne_DIFF"/>
-						<m_MeshName text="Throne#M"/>
+						<m_MeshName text="Throne"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

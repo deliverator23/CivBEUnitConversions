@@ -115,7 +115,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Satellite_DIFF.004"/>
-<m_MeshName text="Sat_mil_orbital_laser#M"/>
+<m_MeshName text="Sat_mil_orbital_laser"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

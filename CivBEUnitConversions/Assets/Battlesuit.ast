@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Battlesuit_DIFF"/>
-<m_MeshName text="BattleSuit#M"/>
+<m_MeshName text="BattleSuit"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

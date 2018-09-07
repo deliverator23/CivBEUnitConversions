@@ -730,7 +730,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Geliopod_DIFF"/>
-						<m_MeshName text="Geliopod#M"/>
+						<m_MeshName text="Geliopod"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

@@ -580,7 +580,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Naval_Fighter04P_DIFF"/>
-						<m_MeshName text="Naval_Fighter04P#M"/>
+						<m_MeshName text="Naval_Fighter04P"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

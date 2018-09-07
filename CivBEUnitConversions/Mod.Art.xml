@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::GameArtSpecification>
+<AssetObjects..GameArtSpecification>
 	<id>
 		<name text="Civilization: Beyond Earth Units for Civ VI"/>
 		<id text="b39c27e0-733b-4d6f-96d2-9004e1d11cf9"/>
@@ -603,4 +603,4 @@
 			<id text="cb2f71b7-843e-4af3-9ca7-992acda9c195"/>
 		</Element>
 	</requiredGameArtIDs>
-</AssetObjects::GameArtSpecification>
+</AssetObjects..GameArtSpecification>

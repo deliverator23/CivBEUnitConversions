@@ -580,7 +580,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Aquilion_DIFF"/>
-						<m_MeshName text="Aquilion#M"/>
+						<m_MeshName text="Aquilion"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

@@ -250,7 +250,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Worker_DIFF"/>
-<m_MeshName text="Worker#M"/>
+<m_MeshName text="Worker"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -264,7 +264,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Worker_DIFF"/>
-<m_MeshName text="Worker_Tools#M"/>
+<m_MeshName text="Worker_Tools"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

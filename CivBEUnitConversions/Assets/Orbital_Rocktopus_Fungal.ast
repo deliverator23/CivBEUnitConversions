@@ -6,23 +6,23 @@
 <m_Bindings>
 <Element>
 <m_SlotName text="DODGE_A"/> 
-<m_AnimationName text="Orbital_Rocktopus_Bombard_Defense"/> 
+<m_AnimationName text="orbital_rocktopus_bombard_defense"/> 
 </Element>
 <Element>
 <m_SlotName text="DEFEND_A"/> 
-<m_AnimationName text="Orbital_Rocktopus_Bombard_Defense"/> 
+<m_AnimationName text="orbital_rocktopus_bombard_defense"/> 
 </Element>
 <Element>
 <m_SlotName text="DEFEND_1"/> 
-<m_AnimationName text="Orbital_Rocktopus_Bombard_Defense"/> 
+<m_AnimationName text="orbital_rocktopus_bombard_defense"/> 
 </Element>
 <Element>
 <m_SlotName text="HERO_A"/> 
-<m_AnimationName text="Orbital_Rocktopus_Attack_City"/> 
+<m_AnimationName text="orbital_rocktopus_attack_city"/> 
 </Element>
 <Element>
 <m_SlotName text="HERO_1"/> 
-<m_AnimationName text="Orbital_Rocktopus_Attack_City"/> 
+<m_AnimationName text="orbital_rocktopus_attack_city"/> 
 </Element>
 </m_Bindings>
 </m_animationBindings>
@@ -55,35 +55,35 @@
 <Element>
 <m_Name text="DODGE_A"/>
 <m_Description text=""/>
-<m_AnimationName text="Orbital_Rocktopus_Bombard_Defense"/>
+<m_AnimationName text="orbital_rocktopus_bombard_defense"/>
 <m_fDuration>0.000000</m_fDuration>
 <m_Triggers/>
 </Element>
 <Element>
 <m_Name text="DEFEND_A"/>
 <m_Description text=""/>
-<m_AnimationName text="Orbital_Rocktopus_Bombard_Defense"/>
+<m_AnimationName text="orbital_rocktopus_bombard_defense"/>
 <m_fDuration>0.000000</m_fDuration>
 <m_Triggers/>
 </Element>
 <Element>
 <m_Name text="DEFEND_1"/>
 <m_Description text=""/>
-<m_AnimationName text="Orbital_Rocktopus_Bombard_Defense"/>
+<m_AnimationName text="orbital_rocktopus_bombard_defense"/>
 <m_fDuration>0.000000</m_fDuration>
 <m_Triggers/>
 </Element>
 <Element>
 <m_Name text="HERO_A"/>
 <m_Description text=""/>
-<m_AnimationName text="Orbital_Rocktopus_Attack_City"/>
+<m_AnimationName text="orbital_rocktopus_attack_city"/>
 <m_fDuration>0.000000</m_fDuration>
 <m_Triggers/>
 </Element>
 <Element>
 <m_Name text="HERO_1"/>
 <m_Description text=""/>
-<m_AnimationName text="Orbital_Rocktopus_Attack_City"/>
+<m_AnimationName text="orbital_rocktopus_attack_city"/>
 <m_fDuration>0.000000</m_fDuration>
 <m_Triggers/>
 </Element>

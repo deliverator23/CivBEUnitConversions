@@ -385,7 +385,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="AirFighter02_DIFF"/>
-<m_MeshName text="AirFighter02#M"/>
+<m_MeshName text="AirFighter02"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

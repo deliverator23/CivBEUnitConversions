@@ -730,7 +730,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Raptor_DIFF"/>
-<m_MeshName text="RaptorBug#M"/>
+<m_MeshName text="RaptorBug"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

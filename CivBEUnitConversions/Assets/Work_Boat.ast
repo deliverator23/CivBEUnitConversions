@@ -250,7 +250,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="WorkBoat_DIFF"/>
-<m_MeshName text="WorkBoat#M"/>
+<m_MeshName text="WorkBoat"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

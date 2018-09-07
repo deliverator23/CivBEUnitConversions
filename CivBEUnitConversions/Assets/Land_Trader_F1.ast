@@ -415,7 +415,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Land_Trader_DIFF.001"/>
-<m_MeshName text="land_trader_02#M"/>
+<m_MeshName text="land_trader_02"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -429,7 +429,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Land_Trader_DIFF.001"/>
-<m_MeshName text="load_02#M"/>
+<m_MeshName text="load_02"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

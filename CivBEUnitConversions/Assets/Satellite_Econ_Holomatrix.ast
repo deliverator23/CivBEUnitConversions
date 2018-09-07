@@ -115,7 +115,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Satellite_DIFF"/>
-<m_MeshName text="Sat_Econ_Holomatrix#M"/>
+<m_MeshName text="Sat_Econ_Holomatrix"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

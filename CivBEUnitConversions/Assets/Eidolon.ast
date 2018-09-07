@@ -730,7 +730,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04SP_DIFF.001"/>
-<m_MeshName text="Marine04SP#M"/>
+<m_MeshName text="Marine04SP"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -744,7 +744,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Marine04SP_DIFF.001"/>
-<m_MeshName text="Rifle04SP#M"/>
+<m_MeshName text="Rifle04SP"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

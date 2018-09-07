@@ -730,7 +730,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Xenos_Titan_bot_DIFF"/>
-						<m_MeshName text="Xenos_Titan_bottom#M"/>
+						<m_MeshName text="Xenos_Titan_bottom"/>
 						<m_StateName text="Default"/>
 					</Element>
 					<Element>
@@ -744,7 +744,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Xenos_Titan_top_DIFF"/>
-						<m_MeshName text="Xenos_Titan_top#M"/>
+						<m_MeshName text="Xenos_Titan_top"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

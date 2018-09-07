@@ -115,7 +115,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Satellite_DIFF.001"/>
-<m_MeshName text="Sat_econ_orbital_fabricator#M"/>
+<m_MeshName text="Sat_econ_orbital_fabricator"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

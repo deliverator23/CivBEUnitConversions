@@ -700,7 +700,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Rocktopus_DIFF"/>
-<m_MeshName text="front_tent#M"/>
+<m_MeshName text="front_tent"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -714,7 +714,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Rocktopus_DIFF"/>
-<m_MeshName text="Rocktopus#M"/>
+<m_MeshName text="Rocktopus"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -728,7 +728,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Rocktopus_DIFF"/>
-<m_MeshName text="Sack#M"/>
+<m_MeshName text="Sack"/>
 <m_StateName text="Default"/>
 </Element>
 <Element>
@@ -742,7 +742,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Rocktopus_DIFF"/>
-<m_MeshName text="Tent7#M"/>
+<m_MeshName text="Tent7"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>

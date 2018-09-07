@@ -115,7 +115,7 @@
 </m_Values>
 </m_Values>
 <m_GroupName text="Satellite_DIFF.011"/>
-<m_MeshName text="sat_Res_Miasmic_Condenser#M"/>
+<m_MeshName text="sat_Res_Miasmic_Condenser"/>
 <m_StateName text="Default"/>
 </Element>
 </m_GroupStates>
