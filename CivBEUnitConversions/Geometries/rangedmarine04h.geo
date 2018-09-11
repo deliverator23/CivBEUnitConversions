@@ -14,7 +14,7 @@
 <m_Name text="Marine04H"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04H_DIFF.001"/>
+<m_Name text="Marine04H_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1654</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Marine04H_Bazooka"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04H_DIFF.001"/>
+<m_Name text="Marine04H_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1654</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Ranged_Marine03H"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03H_DIFF.002"/>
+<m_Name text="Marine03H_DIFF.dds.005"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>350</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Ranged_Marine04H"/>
 <m_Groups>
 <Element>
-<m_Name text="Ranged_Marine04H_DIFF"/>
+<m_Name text="Ranged_Marine04H_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>494</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="Weapon04H01"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04H_DIFF.001"/>
+<m_Name text="Marine04H_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>507</m_nPrims>
 </Element>

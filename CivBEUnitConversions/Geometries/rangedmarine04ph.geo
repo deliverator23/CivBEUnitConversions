@@ -14,7 +14,7 @@
 <m_Name text="Marine04PH"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04PH_DIFF.001"/>
+<m_Name text="Marine04PH_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1180</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Marine04PH_Rifle"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04PH_DIFF.001"/>
+<m_Name text="Marine04PH_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>606</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Marine04PH_Spotter"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04PH_DIFF.001"/>
+<m_Name text="Marine04PH_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1180</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="RangedMarine04PH"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine04HP_DIFF"/>
+<m_Name text="RangedMarine04HP_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>910</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="RangedMarine04PH_Ammo_Crate"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine04HP_DIFF"/>
+<m_Name text="RangedMarine04HP_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>242</m_nPrims>
 </Element>

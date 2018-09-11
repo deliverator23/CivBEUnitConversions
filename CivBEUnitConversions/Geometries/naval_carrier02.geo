@@ -14,7 +14,7 @@
 <m_Name text="NavalCarrier02"/>
 <m_Groups>
 <Element>
-<m_Name text="NavalCarrier02_DIFF"/>
+<m_Name text="NavalCarrier02_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1991</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="NavalCarrier02_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="NavalCarrier02_DMG_DIFF"/>
+<m_Name text="NavalCarrier02_DMG_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2062</m_nPrims>
 </Element>

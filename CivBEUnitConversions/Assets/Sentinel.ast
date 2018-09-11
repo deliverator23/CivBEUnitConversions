@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine03P_DIFF"/>
+<m_GroupName text="Marine03P_DIFF.dds"/>
 <m_MeshName text="purityMarine"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine03P_DIFF"/>
+<m_GroupName text="Marine03P_DIFF.dds.001"/>
 <m_MeshName text="Rifle_PurityMarine03"/>
 <m_StateName text="Default"/>
 </Element>

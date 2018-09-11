@@ -14,7 +14,7 @@
 <m_Name text="Comm_Relay"/>
 <m_Groups>
 <Element>
-<m_Name text="OrbitalUnitsXP1_DIFF"/>
+<m_Name text="OrbitalUnitsXP1_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1092</m_nPrims>
 </Element>

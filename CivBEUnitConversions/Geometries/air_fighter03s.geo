@@ -14,7 +14,7 @@
 <m_Name text="SupremacyAirFighter3alt"/>
 <m_Groups>
 <Element>
-<m_Name text="Air_Fighter03S_DIFF"/>
+<m_Name text="Air_Fighter03S_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1016</m_nPrims>
 </Element>

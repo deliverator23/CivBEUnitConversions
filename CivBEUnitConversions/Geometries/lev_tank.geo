@@ -14,7 +14,7 @@
 <m_Name text="lev_tank"/>
 <m_Groups>
 <Element>
-<m_Name text="LevTank_DIFF"/>
+<m_Name text="LevTank_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2172</m_nPrims>
 </Element>

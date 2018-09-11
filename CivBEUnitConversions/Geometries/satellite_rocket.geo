@@ -14,7 +14,7 @@
 <m_Name text="gantry_frame"/>
 <m_Groups>
 <Element>
-<m_Name text="SatelliteGantry_DIFF"/>
+<m_Name text="SatelliteGantry_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2397</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Satellite_Rocket"/>
 <m_Groups>
 <Element>
-<m_Name text="SatelliteRocket_DIFF"/>
+<m_Name text="SatelliteRocket_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>566</m_nPrims>
 </Element>

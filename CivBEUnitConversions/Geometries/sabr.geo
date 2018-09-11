@@ -14,7 +14,7 @@
 <m_Name text="SABR"/>
 <m_Groups>
 <Element>
-<m_Name text="SABR_DIFF"/>
+<m_Name text="SABR_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2636</m_nPrims>
 </Element>

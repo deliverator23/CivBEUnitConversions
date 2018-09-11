@@ -14,7 +14,7 @@
 <m_Name text="LP_Big_Main"/>
 <m_Groups>
 <Element>
-<m_Name text="Hydracoral_Diff.002"/>
+<m_Name text="Hydracoral_Diff.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>5747</m_nPrims>
 </Element>

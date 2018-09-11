@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Explorer_Char_DIFF"/>
+<m_GroupName text="Explorer_Char_DIFF.dds"/>
 <m_MeshName text="CivChar"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Explorer_DIFF"/>
+<m_GroupName text="Explorer_DIFF.dds"/>
 <m_MeshName text="Explorer"/>
 <m_StateName text="Default"/>
 </Element>
@@ -757,7 +757,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Dig_Site_props_DIFF"/>
+<m_GroupName text="Dig_Site_props_DIFF.dds"/>
 <m_MeshName text="QuadPods"/>
 <m_StateName text="Default"/>
 </Element>

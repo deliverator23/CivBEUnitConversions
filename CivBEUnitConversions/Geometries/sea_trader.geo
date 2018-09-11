@@ -14,7 +14,7 @@
 <m_Name text="Caravan_Ship"/>
 <m_Groups>
 <Element>
-<m_Name text="Sea_Trader_DIFF"/>
+<m_Name text="Sea_Trader_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>953</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Sea Cargo"/>
 <m_Groups>
 <Element>
-<m_Name text="Sea_Trader_DIFF"/>
+<m_Name text="Sea_Trader_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1404</m_nPrims>
 </Element>

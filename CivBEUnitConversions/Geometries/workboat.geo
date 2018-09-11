@@ -14,7 +14,7 @@
 <m_Name text="WorkBoat"/>
 <m_Groups>
 <Element>
-<m_Name text="WorkBoat_DIFF"/>
+<m_Name text="WorkBoat_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3543</m_nPrims>
 </Element>

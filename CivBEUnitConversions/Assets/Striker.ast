@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine03H_DIFF.001"/>
+<m_GroupName text="Marine03H_DIFF.dds.002"/>
 <m_MeshName text="Harmony Marine 04"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine03H_DIFF.001"/>
+<m_GroupName text="Marine03H_DIFF.dds.004"/>
 <m_MeshName text="Harmony Marine 3"/>
 <m_StateName text="Default"/>
 </Element>
@@ -757,7 +757,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="RangedMarine03H_DIFF"/>
+<m_GroupName text="RangedMarine03H_DIFF.dds"/>
 <m_MeshName text="Ranged_Marine03H"/>
 <m_StateName text="Default"/>
 </Element>
@@ -771,7 +771,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine03H_DIFF.001"/>
+<m_GroupName text="Marine03H_DIFF.dds.003"/>
 <m_MeshName text="Weapon03H"/>
 <m_StateName text="Default"/>
 </Element>

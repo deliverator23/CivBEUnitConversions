@@ -14,7 +14,7 @@
 <m_Name text="Architect_Soldier"/>
 <m_Groups>
 <Element>
-<m_Name text="Architect_DIFF"/>
+<m_Name text="Architect_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2080</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Architect_Spy"/>
 <m_Groups>
 <Element>
-<m_Name text="Architect_DIFF"/>
+<m_Name text="Architect_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2122</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Can"/>
 <m_Groups>
 <Element>
-<m_Name text="Architect_DIFF"/>
+<m_Name text="Architect_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>825</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Pistol"/>
 <m_Groups>
 <Element>
-<m_Name text="Architect_DIFF"/>
+<m_Name text="Architect_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>226</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="Rifle"/>
 <m_Groups>
 <Element>
-<m_Name text="Architect_DIFF"/>
+<m_Name text="Architect_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>412</m_nPrims>
 </Element>

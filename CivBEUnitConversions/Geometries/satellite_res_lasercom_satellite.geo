@@ -14,7 +14,7 @@
 <m_Name text="Sat_Res_Lasercom_Satellite"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.010"/>
+<m_Name text="Satellite_DIFF.dds.010"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2706</m_nPrims>
 </Element>

@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Kraken_DIFF"/>
+<m_GroupName text="Kraken_DIFF.dds"/>
 <m_MeshName text="Claws"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Kraken_DIFF"/>
+<m_GroupName text="Kraken_DIFF.dds.001"/>
 <m_MeshName text="Kraken"/>
 <m_StateName text="Default"/>
 </Element>

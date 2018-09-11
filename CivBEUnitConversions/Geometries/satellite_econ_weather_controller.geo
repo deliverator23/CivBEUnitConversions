@@ -14,7 +14,7 @@
 <m_Name text="Satellite_mil02"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.003"/>
+<m_Name text="Satellite_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1304</m_nPrims>
 </Element>

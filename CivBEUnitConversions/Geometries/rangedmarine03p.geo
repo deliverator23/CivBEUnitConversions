@@ -14,7 +14,7 @@
 <m_Name text="purityMarine"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03P_DIFF.001"/>
+<m_Name text="Marine03P_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1112</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="purityMarine01"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03P_DIFF.001"/>
+<m_Name text="Marine03P_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1112</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="ranged_marine03P"/>
 <m_Groups>
 <Element>
-<m_Name text="Ranged_Marine03P_DIFF"/>
+<m_Name text="Ranged_Marine03P_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>864</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Weapon 03P"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03P_DIFF.001"/>
+<m_Name text="Marine03P_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>348</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="EmbarkedShip03H"/>
 <m_Groups>
 <Element>
-<m_Name text="Embarked_Ship03H_DIFF"/>
+<m_Name text="Embarked_Ship03H_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1371</m_nPrims>
 </Element>

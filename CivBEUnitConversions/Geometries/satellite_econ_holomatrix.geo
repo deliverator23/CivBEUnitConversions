@@ -14,7 +14,7 @@
 <m_Name text="Sat_Econ_Holomatrix"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF"/>
+<m_Name text="Satellite_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2470</m_nPrims>
 </Element>

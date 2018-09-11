@@ -14,7 +14,7 @@
 <m_Name text="Claws"/>
 <m_Groups>
 <Element>
-<m_Name text="Kraken_DIFF"/>
+<m_Name text="Kraken_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2190</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Kraken"/>
 <m_Groups>
 <Element>
-<m_Name text="Kraken_DIFF"/>
+<m_Name text="Kraken_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3366</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="Harmony Marine 04"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03H_DIFF.001"/>
+<m_Name text="Marine03H_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1502</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Harmony Marine 3"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03H_DIFF.001"/>
+<m_Name text="Marine03H_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1502</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Ranged_Marine03H"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine03H_DIFF"/>
+<m_Name text="RangedMarine03H_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>896</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Weapon03H"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03H_DIFF.001"/>
+<m_Name text="Marine03H_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>380</m_nPrims>
 </Element>

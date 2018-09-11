@@ -14,7 +14,7 @@
 <m_Name text="SupremacyMarine4"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04S_DIFF"/>
+<m_Name text="Marine04S_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1650</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="SupremacyMarine4Rifle"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04S_DIFF"/>
+<m_Name text="Marine04S_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>490</m_nPrims>
 </Element>

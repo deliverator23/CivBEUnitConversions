@@ -14,7 +14,7 @@
 <m_Name text="CARVR"/>
 <m_Groups>
 <Element>
-<m_Name text="CARVR_DIFF"/>
+<m_Name text="CARVR_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3100</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="CARVR2"/>
 <m_Groups>
 <Element>
-<m_Name text="CARVR_DIFF"/>
+<m_Name text="CARVR_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>13</m_nPrims>
 </Element>

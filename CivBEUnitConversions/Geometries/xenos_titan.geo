@@ -14,7 +14,7 @@
 <m_Name text="Xenos_Titan_bottom"/>
 <m_Groups>
 <Element>
-<m_Name text="Xenos_Titan_bot_DIFF"/>
+<m_Name text="Xenos_Titan_bot_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3104</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Xenos_Titan_bottom0_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Xenos_Titan_bot_DMG_DIFF"/>
+<m_Name text="Xenos_Titan_bot_DMG_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3130</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Xenos_Titan_top"/>
 <m_Groups>
 <Element>
-<m_Name text="Xenos_Titan_top_DIFF"/>
+<m_Name text="Xenos_Titan_top_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3876</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Xenos_Titan_top_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Xenos_Titan_top_DMG_DIFF"/>
+<m_Name text="Xenos_Titan_top_DMG_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3892</m_nPrims>
 </Element>

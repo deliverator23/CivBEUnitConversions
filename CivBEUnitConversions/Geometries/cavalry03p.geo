@@ -14,7 +14,7 @@
 <m_Name text="Cavarly03P"/>
 <m_Groups>
 <Element>
-<m_Name text="Cavalry03P_DIFF"/>
+<m_Name text="Cavalry03P_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1578</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="TheDrillworm_Closed"/>
 <m_Groups>
 <Element>
-<m_Name text="SiegeWorm_DIFF"/>
+<m_Name text="SiegeWorm_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2148</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="TheDrillworm_Open"/>
 <m_Groups>
 <Element>
-<m_Name text="SiegeWorm_DIFF"/>
+<m_Name text="SiegeWorm_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3232</m_nPrims>
 </Element>

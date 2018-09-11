@@ -14,7 +14,7 @@
 <m_Name text="Marine04H"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04H_DIFF.002"/>
+<m_Name text="Marine04H_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2261</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="RaptorBug01"/>
 <m_Groups>
 <Element>
-<m_Name text="Raptor_DIFF.001"/>
+<m_Name text="Raptor_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2078</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="saddle"/>
 <m_Groups>
 <Element>
-<m_Name text="Xenocavalry_DIFF"/>
+<m_Name text="Xenocavalry_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>502</m_nPrims>
 </Element>

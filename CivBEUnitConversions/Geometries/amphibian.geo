@@ -14,7 +14,7 @@
 <m_Name text="Amphibian_unique"/>
 <m_Groups>
 <Element>
-<m_Name text="Tadster_diff_000"/>
+<m_Name text="Tadster_diff_000.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3154</m_nPrims>
 </Element>

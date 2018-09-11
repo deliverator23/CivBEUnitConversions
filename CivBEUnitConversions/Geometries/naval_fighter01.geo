@@ -14,7 +14,7 @@
 <m_Name text="Naval_Fighter01"/>
 <m_Groups>
 <Element>
-<m_Name text="Naval_Fighter01_DIFF"/>
+<m_Name text="Naval_Fighter01_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2372</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Naval_Fighter01_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Naval_Fighter01_DMG_DIFF"/>
+<m_Name text="Naval_Fighter01_DMG_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2390</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Naval_Fighter_Weapon01"/>
 <m_Groups>
 <Element>
-<m_Name text="Naval_Fighter01_DIFF"/>
+<m_Name text="Naval_Fighter01_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>432</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Naval_Fighter_Weapon01_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Naval_Fighter01_DMG_DIFF"/>
+<m_Name text="Naval_Fighter01_DMG_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>414</m_nPrims>
 </Element>

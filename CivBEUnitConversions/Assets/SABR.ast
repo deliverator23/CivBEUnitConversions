@@ -654,7 +654,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="SABR_DIFF"/>
+<m_GroupName text="SABR_DIFF.dds"/>
 <m_MeshName text="SABR"/>
 <m_StateName text="Default"/>
 </Element>

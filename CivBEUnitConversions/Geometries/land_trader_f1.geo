@@ -14,7 +14,7 @@
 <m_Name text="land_trader_02"/>
 <m_Groups>
 <Element>
-<m_Name text="Land_Trader_DIFF.001"/>
+<m_Name text="Land_Trader_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2610</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="load_02"/>
 <m_Groups>
 <Element>
-<m_Name text="Land_Trader_DIFF.001"/>
+<m_Name text="Land_Trader_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>834</m_nPrims>
 </Element>

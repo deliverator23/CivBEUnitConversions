@@ -14,7 +14,7 @@
 <m_Name text="CivChar"/>
 <m_Groups>
 <Element>
-<m_Name text="Explorer_Char_DIFF"/>
+<m_Name text="Explorer_Char_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1308</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Explorer"/>
 <m_Groups>
 <Element>
-<m_Name text="Explorer_DIFF"/>
+<m_Name text="Explorer_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1948</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="QuadPods"/>
 <m_Groups>
 <Element>
-<m_Name text="Dig_Site_props_DIFF"/>
+<m_Name text="Dig_Site_props_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1232</m_nPrims>
 </Element>

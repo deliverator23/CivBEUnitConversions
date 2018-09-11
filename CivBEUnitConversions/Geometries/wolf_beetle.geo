@@ -14,7 +14,7 @@
 <m_Name text="wolfBeetle_2010"/>
 <m_Groups>
 <Element>
-<m_Name text="wolfBeetle_DIFF"/>
+<m_Name text="wolfBeetle_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2090</m_nPrims>
 </Element>

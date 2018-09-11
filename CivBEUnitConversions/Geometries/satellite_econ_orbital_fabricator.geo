@@ -14,7 +14,7 @@
 <m_Name text="Sat_econ_orbital_fabricator"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.001"/>
+<m_Name text="Satellite_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>4318</m_nPrims>
 </Element>

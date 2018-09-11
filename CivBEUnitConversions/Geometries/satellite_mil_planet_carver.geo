@@ -14,7 +14,7 @@
 <m_Name text="Sat_Mil_Planet_Carver"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.006"/>
+<m_Name text="Satellite_DIFF.dds.006"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1512</m_nPrims>
 </Element>

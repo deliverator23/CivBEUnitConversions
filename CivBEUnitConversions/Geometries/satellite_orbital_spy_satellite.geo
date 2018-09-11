@@ -14,7 +14,7 @@
 <m_Name text="SpySatellite"/>
 <m_Groups>
 <Element>
-<m_Name text="OrbitalUnitsXP1_DIFF.002"/>
+<m_Name text="OrbitalUnitsXP1_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1610</m_nPrims>
 </Element>

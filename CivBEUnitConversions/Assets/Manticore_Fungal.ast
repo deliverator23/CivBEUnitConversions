@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="BombardierBug_DIFF"/>
+<m_GroupName text="BombardierBug_DIFF.dds"/>
 <m_MeshName text="BombadierBug_rework"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="BombardierBug_DIFF"/>
+<m_GroupName text="BombardierBug_DIFF.dds.001"/>
 <m_MeshName text="BombadierBug_rework2"/>
 <m_StateName text="Default"/>
 </Element>

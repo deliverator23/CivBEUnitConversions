@@ -14,7 +14,7 @@
 <m_Name text="Marine02"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine02_DIFF.001"/>
+<m_Name text="Marine02_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1288</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Marine02_TP"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine02_DIFF.001"/>
+<m_Name text="Marine02_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1288</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Marine02Rifle"/>
 <m_Groups>
 <Element>
-<m_Name text="MarineWeapon02_DIFF.001"/>
+<m_Name text="MarineWeapon02_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>140</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="RangedMarine_TargetPainter"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine01_DIFF.001"/>
+<m_Name text="RangedMarine01_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>196</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="RangedMarineGatGun"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine02_DIFF"/>
+<m_Name text="RangedMarine02_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>634</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="NavalMelee04PH_Model"/>
 <m_Groups>
 <Element>
-<m_Name text="NavalMelee04PH_DIFF"/>
+<m_Name text="NavalMelee04PH_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1902</m_nPrims>
 </Element>

@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Embarked_Ship_DIFF"/>
+<m_GroupName text="Embarked_Ship_DIFF.dds"/>
 <m_MeshName text="EmbarkedShip"/>
 <m_StateName text="Default"/>
 </Element>

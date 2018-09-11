@@ -14,7 +14,7 @@
 <m_Name text="sat__Res_Deep_Space_Telescope"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.009"/>
+<m_Name text="Satellite_DIFF.dds.009"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3488</m_nPrims>
 </Element>

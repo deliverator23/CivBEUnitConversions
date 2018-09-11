@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="RangedMarine04SP_DIFF"/>
+<m_GroupName text="RangedMarine04SP_DIFF.dds.001"/>
 <m_MeshName text="ammo_Crate04SP"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine04SP_DIFF.002"/>
+<m_GroupName text="Marine04SP_DIFF.dds.006"/>
 <m_MeshName text="Marine04SP"/>
 <m_StateName text="Default"/>
 </Element>
@@ -757,7 +757,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine04SP_DIFF.002"/>
+<m_GroupName text="Marine04SP_DIFF.dds.005"/>
 <m_MeshName text="Ranged_Marine04SP"/>
 <m_StateName text="Default"/>
 </Element>
@@ -771,7 +771,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="RangedMarine04SP_DIFF"/>
+<m_GroupName text="RangedMarine04SP_DIFF.dds"/>
 <m_MeshName text="RangedMarine04SP_Weapon"/>
 <m_StateName text="Default"/>
 </Element>
@@ -785,7 +785,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine04SP_DIFF.002"/>
+<m_GroupName text="Marine04SP_DIFF.dds.007"/>
 <m_MeshName text="Rifle04SP"/>
 <m_StateName text="Default"/>
 </Element>

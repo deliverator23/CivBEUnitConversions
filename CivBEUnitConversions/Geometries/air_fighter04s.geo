@@ -14,7 +14,7 @@
 <m_Name text="AirFighter04S"/>
 <m_Groups>
 <Element>
-<m_Name text="Air_Fighter04S_DIFF"/>
+<m_Name text="Air_Fighter04S_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1074</m_nPrims>
 </Element>

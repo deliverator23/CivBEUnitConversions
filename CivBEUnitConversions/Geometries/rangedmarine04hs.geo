@@ -14,7 +14,7 @@
 <m_Name text="Marine04HS"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04HS_DIFF.001"/>
+<m_Name text="Marine04HS_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1850</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Marine04HS_Bazooka"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04HS_DIFF.001"/>
+<m_Name text="Marine04HS_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1850</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="RangedMarine04HS_Ammo_Crate"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine04HS_Diff"/>
+<m_Name text="RangedMarine04HS_Diff.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>210</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="RangedMarine04HS_Rifle"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine04HS_Diff"/>
+<m_Name text="RangedMarine04HS_Diff.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1056</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="Weapon04HS"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04HS_DIFF.001"/>
+<m_Name text="Marine04HS_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>366</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="ammo_Crate04SP"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine04SP_DIFF"/>
+<m_Name text="RangedMarine04SP_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>404</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Marine04SP"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF.002"/>
+<m_Name text="Marine04SP_DIFF.dds.006"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1285</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Ranged_Marine04SP"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF.002"/>
+<m_Name text="Marine04SP_DIFF.dds.005"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1285</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="RangedMarine04SP_Weapon"/>
 <m_Groups>
 <Element>
-<m_Name text="RangedMarine04SP_DIFF"/>
+<m_Name text="RangedMarine04SP_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>756</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="Rifle04SP"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF.002"/>
+<m_Name text="Marine04SP_DIFF.dds.007"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>444</m_nPrims>
 </Element>

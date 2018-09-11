@@ -14,7 +14,7 @@
 <m_Name text="Cav_02"/>
 <m_Groups>
 <Element>
-<m_Name text="Cavalry02_DIFF"/>
+<m_Name text="Cavalry02_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2172</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Cav_02_Turret"/>
 <m_Groups>
 <Element>
-<m_Name text="Cavalry02_DIFF"/>
+<m_Name text="Cavalry02_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>443</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="RaptorBug"/>
 <m_Groups>
 <Element>
-<m_Name text="Raptor_DIFF"/>
+<m_Name text="Raptor_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2142</m_nPrims>
 </Element>

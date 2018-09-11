@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine04HS_DIFF.001"/>
+<m_GroupName text="Marine04HS_DIFF.dds.003"/>
 <m_MeshName text="Marine04HS"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine04HS_DIFF.001"/>
+<m_GroupName text="Marine04HS_DIFF.dds.004"/>
 <m_MeshName text="Marine04HS_Bazooka"/>
 <m_StateName text="Default"/>
 </Element>
@@ -757,7 +757,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="RangedMarine04HS_Diff"/>
+<m_GroupName text="RangedMarine04HS_Diff.dds.001"/>
 <m_MeshName text="RangedMarine04HS_Ammo_Crate"/>
 <m_StateName text="Default"/>
 </Element>
@@ -771,7 +771,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="RangedMarine04HS_Diff"/>
+<m_GroupName text="RangedMarine04HS_Diff.dds"/>
 <m_MeshName text="RangedMarine04HS_Rifle"/>
 <m_StateName text="Default"/>
 </Element>
@@ -785,7 +785,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine04HS_DIFF.001"/>
+<m_GroupName text="Marine04HS_DIFF.dds.002"/>
 <m_MeshName text="Weapon04HS"/>
 <m_StateName text="Default"/>
 </Element>

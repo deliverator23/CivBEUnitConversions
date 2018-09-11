@@ -14,7 +14,7 @@
 <m_Name text="Sub_02"/>
 <m_Groups>
 <Element>
-<m_Name text="Sub_02_DIFF"/>
+<m_Name text="Sub_02_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2297</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Sub_02_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Sub_02_DIFF_DMG"/>
+<m_Name text="Sub_02_DIFF_DMG.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2297</m_nPrims>
 </Element>

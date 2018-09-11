@@ -14,7 +14,7 @@
 <m_Name text="Sat_Mil_TacNet_Hub"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.007"/>
+<m_Name text="Satellite_DIFF.dds.007"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2618</m_nPrims>
 </Element>

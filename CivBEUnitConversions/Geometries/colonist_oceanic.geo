@@ -14,7 +14,7 @@
 <m_Name text="Civilian_Oceanic_Colonist001"/>
 <m_Groups>
 <Element>
-<m_Name text="Civilian_Oceanic_Colonist_DIFF"/>
+<m_Name text="Civilian_Oceanic_Colonist_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2529</m_nPrims>
 </Element>

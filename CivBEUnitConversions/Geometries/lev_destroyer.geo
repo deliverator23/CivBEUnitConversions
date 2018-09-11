@@ -14,7 +14,7 @@
 <m_Name text="lev_Destroyer"/>
 <m_Groups>
 <Element>
-<m_Name text="Lev_Destroyer_DIFF"/>
+<m_Name text="Lev_Destroyer_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>5564</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="lev_Destroyer_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Lev_Destroyer_DMG_DIFF"/>
+<m_Name text="Lev_Destroyer_DMG_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>5714</m_nPrims>
 </Element>

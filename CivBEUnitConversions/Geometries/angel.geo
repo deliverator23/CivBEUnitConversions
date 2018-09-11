@@ -14,7 +14,7 @@
 <m_Name text="Angel"/>
 <m_Groups>
 <Element>
-<m_Name text="Ultron_DIFF"/>
+<m_Name text="Ultron_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>5414</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Angel_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Ultron_DMG_DIFF"/>
+<m_Name text="Ultron_DMG_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>5526</m_nPrims>
 </Element>

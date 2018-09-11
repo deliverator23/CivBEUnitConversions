@@ -14,7 +14,7 @@
 <m_Name text="Health_fixer"/>
 <m_Groups>
 <Element>
-<m_Name text="OrbitalUnitsXP1_DIFF.001"/>
+<m_Name text="OrbitalUnitsXP1_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1164</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="Naval_Fighter03P"/>
 <m_Groups>
 <Element>
-<m_Name text="Naval_Fighter03P_DIFF"/>
+<m_Name text="Naval_Fighter03P_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2900</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Naval_Fighter03P_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Naval_Fighter03P_DMG_DIFF"/>
+<m_Name text="Naval_Fighter03P_DMG_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2986</m_nPrims>
 </Element>

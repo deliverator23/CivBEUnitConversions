@@ -14,7 +14,7 @@
 <m_Name text="Drone_A"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF"/>
+<m_Name text="DroneCage_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1100</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Drone_A_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF_DMG"/>
+<m_Name text="DroneCage_DIFF_DMG.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1100</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Drone_B"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF"/>
+<m_Name text="DroneCage_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>722</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Drone_B_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF_DMG"/>
+<m_Name text="DroneCage_DIFF_DMG.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>722</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="DroneCage_Soldier"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF"/>
+<m_Name text="DroneCage_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2572</m_nPrims>
 </Element>
@@ -79,7 +79,7 @@
 <m_Name text="DroneCage_Soldier_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF_DMG"/>
+<m_Name text="DroneCage_DIFF_DMG.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2572</m_nPrims>
 </Element>
@@ -92,7 +92,7 @@
 <m_Name text="Pistol"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF"/>
+<m_Name text="DroneCage_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>214</m_nPrims>
 </Element>
@@ -105,7 +105,7 @@
 <m_Name text="Pistol_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF_DMG"/>
+<m_Name text="DroneCage_DIFF_DMG.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>214</m_nPrims>
 </Element>
@@ -118,7 +118,7 @@
 <m_Name text="Shield"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF"/>
+<m_Name text="DroneCage_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>218</m_nPrims>
 </Element>
@@ -131,7 +131,7 @@
 <m_Name text="Shield_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="DroneCage_DIFF_DMG"/>
+<m_Name text="DroneCage_DIFF_DMG.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>218</m_nPrims>
 </Element>

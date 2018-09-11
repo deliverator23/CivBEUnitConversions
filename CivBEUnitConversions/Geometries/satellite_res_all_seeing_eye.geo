@@ -14,7 +14,7 @@
 <m_Name text="Sat_Res_AllSeeing"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.008"/>
+<m_Name text="Satellite_DIFF.dds.008"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3290</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="Alien_flyer"/>
 <m_Groups>
 <Element>
-<m_Name text="Alien_flyer_DIFF"/>
+<m_Name text="Alien_flyer_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1508</m_nPrims>
 </Element>

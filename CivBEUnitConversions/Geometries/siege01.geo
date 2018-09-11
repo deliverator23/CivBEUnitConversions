@@ -14,7 +14,7 @@
 <m_Name text="Siege01"/>
 <m_Groups>
 <Element>
-<m_Name text="Siege01_DIFF"/>
+<m_Name text="Siege01_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1976</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Siege01_Weapon"/>
 <m_Groups>
 <Element>
-<m_Name text="Siege01_DIFF"/>
+<m_Name text="Siege01_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>270</m_nPrims>
 </Element>

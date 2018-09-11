@@ -14,7 +14,7 @@
 <m_Name text="RangedMarine03S_Weapons"/>
 <m_Groups>
 <Element>
-<m_Name text="MarineRanged03S_DIFF"/>
+<m_Name text="MarineRanged03S_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>865</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="SupremacyMarine01"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03S_DIFF.001"/>
+<m_Name text="Marine03S_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1600</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="SupremacyMarineGun"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03S_DIFF.001"/>
+<m_Name text="Marine03S_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>386</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="SupremacyTargeter"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine03S_DIFF.001"/>
+<m_Name text="Marine03S_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1600</m_nPrims>
 </Element>

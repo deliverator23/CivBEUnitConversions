@@ -14,7 +14,7 @@
 <m_Name text="Sub_04S"/>
 <m_Groups>
 <Element>
-<m_Name text="Sub04S_Diff"/>
+<m_Name text="Sub04S_Diff.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>842</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Sub_04S_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Sub04S_Diff_DMG"/>
+<m_Name text="Sub04S_Diff_DMG.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>842</m_nPrims>
 </Element>

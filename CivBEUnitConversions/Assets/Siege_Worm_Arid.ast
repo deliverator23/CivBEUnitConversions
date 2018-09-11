@@ -684,7 +684,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="SiegeWorm_DIFF"/>
+<m_GroupName text="SiegeWorm_DIFF.dds"/>
 <m_MeshName text="TheDrillworm_Closed"/>
 <m_StateName text="Default"/>
 </Element>
@@ -698,7 +698,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="SiegeWorm_DIFF"/>
+<m_GroupName text="SiegeWorm_DIFF.dds.001"/>
 <m_MeshName text="TheDrillworm_Open"/>
 <m_StateName text="Default"/>
 </Element>

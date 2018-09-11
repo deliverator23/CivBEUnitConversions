@@ -14,7 +14,7 @@
 <m_Name text="AegisCape"/>
 <m_Groups>
 <Element>
-<m_Name text="Aegis_DIFF"/>
+<m_Name text="Aegis_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>412</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="AegisMech"/>
 <m_Groups>
 <Element>
-<m_Name text="Aegis_DIFF"/>
+<m_Name text="Aegis_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2471</m_nPrims>
 </Element>

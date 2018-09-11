@@ -14,7 +14,7 @@
 <m_Name text="Autosled"/>
 <m_Groups>
 <Element>
-<m_Name text="Autosled_DIFF"/>
+<m_Name text="Autosled_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1283</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="AutoSled_Cannister"/>
 <m_Groups>
 <Element>
-<m_Name text="Autosled_DIFF"/>
+<m_Name text="Autosled_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>80</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Marine04SP"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF"/>
+<m_Name text="Marine04SP_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1285</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Marine04SP01"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF"/>
+<m_Name text="Marine04SP_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1285</m_nPrims>
 </Element>
@@ -66,7 +66,7 @@
 <m_Name text="Rifle04SP01"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF"/>
+<m_Name text="Marine04SP_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>444</m_nPrims>
 </Element>

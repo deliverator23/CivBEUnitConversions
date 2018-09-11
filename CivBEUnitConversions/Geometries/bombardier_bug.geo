@@ -14,7 +14,7 @@
 <m_Name text="BombadierBug_rework"/>
 <m_Groups>
 <Element>
-<m_Name text="BombardierBug_DIFF"/>
+<m_Name text="BombardierBug_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2736</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="BombadierBug_rework2"/>
 <m_Groups>
 <Element>
-<m_Name text="BombardierBug_DIFF"/>
+<m_Name text="BombardierBug_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>152</m_nPrims>
 </Element>

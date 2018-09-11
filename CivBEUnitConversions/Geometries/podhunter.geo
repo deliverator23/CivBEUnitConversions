@@ -14,7 +14,7 @@
 <m_Name text="PodHunter_Body"/>
 <m_Groups>
 <Element>
-<m_Name text="bazzalien_diff_000"/>
+<m_Name text="bazzalien_diff_000.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2342</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="PodHunter_Mouth"/>
 <m_Groups>
 <Element>
-<m_Name text="bazzalien_diff_000"/>
+<m_Name text="bazzalien_diff_000.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>580</m_nPrims>
 </Element>

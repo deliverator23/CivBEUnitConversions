@@ -14,7 +14,7 @@
 <m_Name text="Siege03H"/>
 <m_Groups>
 <Element>
-<m_Name text="Siege03H_DIFF"/>
+<m_Name text="Siege03H_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2956</m_nPrims>
 </Element>

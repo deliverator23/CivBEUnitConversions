@@ -14,7 +14,7 @@
 <m_Name text="Sat_mil_orbital_laser"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.004"/>
+<m_Name text="Satellite_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1474</m_nPrims>
 </Element>

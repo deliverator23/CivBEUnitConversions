@@ -14,7 +14,7 @@
 <m_Name text="Sat_mil_Phasal_Transporter"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.005"/>
+<m_Name text="Satellite_DIFF.dds.005"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2682</m_nPrims>
 </Element>

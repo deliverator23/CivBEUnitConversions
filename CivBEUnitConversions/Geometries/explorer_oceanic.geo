@@ -14,7 +14,7 @@
 <m_Name text="Explorer_Oceanic"/>
 <m_Groups>
 <Element>
-<m_Name text="Explorer_Oceanic_DIFF"/>
+<m_Name text="Explorer_Oceanic_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2658</m_nPrims>
 </Element>

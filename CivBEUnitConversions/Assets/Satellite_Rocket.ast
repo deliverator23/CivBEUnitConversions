@@ -414,7 +414,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="SatelliteGantry_DIFF"/>
+<m_GroupName text="SatelliteGantry_DIFF.dds"/>
 <m_MeshName text="gantry_frame"/>
 <m_StateName text="Default"/>
 </Element>
@@ -428,7 +428,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="SatelliteRocket_DIFF"/>
+<m_GroupName text="SatelliteRocket_DIFF.dds"/>
 <m_MeshName text="Satellite_Rocket"/>
 <m_StateName text="Default"/>
 </Element>

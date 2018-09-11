@@ -14,7 +14,7 @@
 <m_Name text="Colonist_Closed"/>
 <m_Groups>
 <Element>
-<m_Name text="Colonist_DIFF"/>
+<m_Name text="Colonist_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2256</m_nPrims>
 </Element>

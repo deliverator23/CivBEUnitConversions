@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine04H_DIFF.002"/>
+<m_GroupName text="Marine04H_DIFF.dds.004"/>
 <m_MeshName text="Marine04H"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Raptor_DIFF.001"/>
+<m_GroupName text="Raptor_DIFF.dds.001"/>
 <m_MeshName text="RaptorBug01"/>
 <m_StateName text="Default"/>
 </Element>
@@ -757,7 +757,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Xenocavalry_DIFF"/>
+<m_GroupName text="Xenocavalry_DIFF.dds"/>
 <m_MeshName text="saddle"/>
 <m_StateName text="Default"/>
 </Element>

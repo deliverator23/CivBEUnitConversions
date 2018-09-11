@@ -14,7 +14,7 @@
 <m_Name text="StationSentinel"/>
 <m_Groups>
 <Element>
-<m_Name text="OrbitalUnitsXP1_DIFF.003"/>
+<m_Name text="OrbitalUnitsXP1_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>614</m_nPrims>
 </Element>

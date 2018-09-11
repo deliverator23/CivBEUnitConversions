@@ -14,7 +14,7 @@
 <m_Name text="front_tent"/>
 <m_Groups>
 <Element>
-<m_Name text="Rocktopus_DIFF.001"/>
+<m_Name text="Rocktopus_DIFF.dds.005"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1073</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Rocktopus"/>
 <m_Groups>
 <Element>
-<m_Name text="Rocktopus_DIFF.001"/>
+<m_Name text="Rocktopus_DIFF.dds.007"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1531</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Sack"/>
 <m_Groups>
 <Element>
-<m_Name text="Rocktopus_DIFF.001"/>
+<m_Name text="Rocktopus_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>337</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="Tent7"/>
 <m_Groups>
 <Element>
-<m_Name text="Rocktopus_DIFF.001"/>
+<m_Name text="Rocktopus_DIFF.dds.006"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1295</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="Baralien"/>
 <m_Groups>
 <Element>
-<m_Name text="Barbalien_DIFF"/>
+<m_Name text="Barbalien_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1264</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Baralien_Legs"/>
 <m_Groups>
 <Element>
-<m_Name text="Barbalien_DIFF"/>
+<m_Name text="Barbalien_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>656</m_nPrims>
 </Element>

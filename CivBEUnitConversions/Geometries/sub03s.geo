@@ -14,7 +14,7 @@
 <m_Name text="Submarine_03S"/>
 <m_Groups>
 <Element>
-<m_Name text="Submarine_03S_DIFF"/>
+<m_Name text="Submarine_03S_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>606</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Submarine_03S_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="Submarine_03S_DIFF_DMG"/>
+<m_Name text="Submarine_03S_DIFF_DMG.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>606</m_nPrims>
 </Element>

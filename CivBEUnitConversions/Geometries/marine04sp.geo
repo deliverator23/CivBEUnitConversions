@@ -14,7 +14,7 @@
 <m_Name text="Marine04SP"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF.001"/>
+<m_Name text="Marine04SP_DIFF.dds.003"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1285</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Rifle04SP"/>
 <m_Groups>
 <Element>
-<m_Name text="Marine04SP_DIFF.001"/>
+<m_Name text="Marine04SP_DIFF.dds.004"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>444</m_nPrims>
 </Element>

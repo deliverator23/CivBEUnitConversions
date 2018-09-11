@@ -14,7 +14,7 @@
 <m_Name text="Siege02"/>
 <m_Groups>
 <Element>
-<m_Name text="Siege02_DIFF"/>
+<m_Name text="Siege02_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1878</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Siege02_rack"/>
 <m_Groups>
 <Element>
-<m_Name text="Siege02_DIFF"/>
+<m_Name text="Siege02_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>428</m_nPrims>
 </Element>

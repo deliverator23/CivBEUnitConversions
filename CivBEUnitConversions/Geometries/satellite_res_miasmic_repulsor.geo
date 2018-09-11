@@ -14,7 +14,7 @@
 <m_Name text="sat_Res_Miasmic_Repulsor"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.012"/>
+<m_Name text="Satellite_DIFF.dds.012"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2310</m_nPrims>
 </Element>

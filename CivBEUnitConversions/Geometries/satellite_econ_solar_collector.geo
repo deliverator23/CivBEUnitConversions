@@ -14,7 +14,7 @@
 <m_Name text="Sat_econ_Solar"/>
 <m_Groups>
 <Element>
-<m_Name text="Satellite_DIFF.002"/>
+<m_Name text="Satellite_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>3998</m_nPrims>
 </Element>

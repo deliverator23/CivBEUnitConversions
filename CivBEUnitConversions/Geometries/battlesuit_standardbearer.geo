@@ -14,7 +14,7 @@
 <m_Name text="BattleSuit"/>
 <m_Groups>
 <Element>
-<m_Name text="Battlesuit_DIFF.001"/>
+<m_Name text="Battlesuit_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2452</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="BattleSuit_standard"/>
 <m_Groups>
 <Element>
-<m_Name text="Battlesuit_DIFF.001"/>
+<m_Name text="Battlesuit_DIFF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>426</m_nPrims>
 </Element>

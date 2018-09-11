@@ -729,7 +729,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine03H_DIFF"/>
+<m_GroupName text="Marine03H_DIFF.dds.001"/>
 <m_MeshName text="Harmony Marine 3"/>
 <m_StateName text="Default"/>
 </Element>
@@ -743,7 +743,7 @@
 </Element>
 </m_Values>
 </m_Values>
-<m_GroupName text="Marine03H_DIFF"/>
+<m_GroupName text="Marine03H_DIFF.dds"/>
 <m_MeshName text="Weapon03H"/>
 <m_StateName text="Default"/>
 </Element>

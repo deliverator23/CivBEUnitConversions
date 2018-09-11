@@ -14,7 +14,7 @@
 <m_Name text="NanoHive_Body"/>
 <m_Groups>
 <Element>
-<m_Name text="NanoHive_DIFF"/>
+<m_Name text="NanoHive_DIFF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1010</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="NanoHive_Body_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="NanoHive_DIFF_DMG"/>
+<m_Name text="NanoHive_DIFF_DMG.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1010</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="NanoHive_Head"/>
 <m_Groups>
 <Element>
-<m_Name text="NanoHive_DIFF"/>
+<m_Name text="NanoHive_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>854</m_nPrims>
 </Element>
@@ -53,7 +53,7 @@
 <m_Name text="NanoHive_Head_DMG"/>
 <m_Groups>
 <Element>
-<m_Name text="NanoHive_DIFF_DMG"/>
+<m_Name text="NanoHive_DIFF_DMG.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>854</m_nPrims>
 </Element>
