@@ -2,12 +2,12 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Civilization: Beyond Earth Units for Civ VI</Name>
+    <Name>Civilization Beyond Earth Units for Civ VI</Name>
     <Guid>b39c27e0-733b-4d6f-96d2-9004e1d11cf9</Guid>
     <ProjectGuid>4b04eb9f-3acc-4c99-b3a4-dc7f63bc8274</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>Civilization: Beyond Earth Units for Civ VI</Teaser>
-    <Description>Civilization: Beyond Earth Units for Civ VI</Description>
+    <Teaser>Civilization Beyond Earth Units for Civ VI</Teaser>
+    <Description>Civilization Beyond Earth Units for Civ VI</Description>
     <Authors>Deliverator</Authors>
     <SpecialThanks>
     </SpecialThanks>
