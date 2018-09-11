@@ -55,7 +55,7 @@
 					<Element>
 						<m_CollectionName text="Groups"/>
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -83,7 +83,7 @@
 																<m_ParamName text="Asset"/>
 															</Element>
 															<Element class="AssetObjects:FloatValue">
-																<m_fValue>1</m_fValue>
+																<m_fValue>0.5</m_fValue>
 																<m_ParamName text="Scale"/>
 															</Element>
 														</m_Values>
@@ -102,7 +102,7 @@
 							<m_Name text="Aegis"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -149,7 +149,7 @@
 							<m_Name text="Ambassador"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -196,7 +196,7 @@
 							<m_Name text="ANGEL"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -243,7 +243,7 @@
 							<m_Name text="Apostle"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -290,7 +290,7 @@
 							<m_Name text="Aquilon"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -337,7 +337,7 @@
 							<m_Name text="Arbiter"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -384,7 +384,7 @@
 							<m_Name text="Architect"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -431,7 +431,7 @@
 							<m_Name text="Argo"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -478,7 +478,7 @@
 							<m_Name text="Armor"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -525,7 +525,7 @@
 							<m_Name text="Artillery"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -572,7 +572,7 @@
 							<m_Name text="Autosled"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -619,7 +619,7 @@
 							<m_Name text="Barb_Alien"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -666,7 +666,7 @@
 							<m_Name text="Barb_Alien_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -713,7 +713,7 @@
 							<m_Name text="Barb_Alien_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -760,7 +760,7 @@
 							<m_Name text="Barb_Alien_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -807,7 +807,7 @@
 							<m_Name text="Barb_Alien_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -854,7 +854,7 @@
 							<m_Name text="Baron"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -901,7 +901,7 @@
 							<m_Name text="Bastion"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -948,7 +948,7 @@
 							<m_Name text="Battlesuit"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -995,7 +995,7 @@
 							<m_Name text="Battlesuit_Standard_Bearer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1042,7 +1042,7 @@
 							<m_Name text="Brawler"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1089,7 +1089,7 @@
 							<m_Name text="Broadside"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1136,7 +1136,7 @@
 							<m_Name text="Cannonade"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1183,7 +1183,7 @@
 							<m_Name text="Carrier"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1230,7 +1230,7 @@
 							<m_Name text="CARVR"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1277,7 +1277,7 @@
 							<m_Name text="Centaur"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1324,7 +1324,7 @@
 							<m_Name text="Centurion"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1371,7 +1371,7 @@
 							<m_Name text="Champion"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1418,7 +1418,7 @@
 							<m_Name text="CNDR"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1465,7 +1465,7 @@
 							<m_Name text="Cobra"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1512,7 +1512,7 @@
 							<m_Name text="Colonist"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1559,7 +1559,7 @@
 							<m_Name text="Colonist_Oceanic"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1606,7 +1606,7 @@
 							<m_Name text="Combat_Rover"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1653,7 +1653,7 @@
 							<m_Name text="Countess"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1700,7 +1700,7 @@
 							<m_Name text="Cruiser"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1747,7 +1747,7 @@
 							<m_Name text="Cutter"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1794,7 +1794,7 @@
 							<m_Name text="Destroyer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1841,7 +1841,7 @@
 							<m_Name text="Devastator"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1888,7 +1888,7 @@
 							<m_Name text="Disciple"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1935,7 +1935,7 @@
 							<m_Name text="Dragoon"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -1982,7 +1982,7 @@
 							<m_Name text="Dreadnought"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2029,7 +2029,7 @@
 							<m_Name text="Drone"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2076,7 +2076,7 @@
 							<m_Name text="Dronelast"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2123,7 +2123,7 @@
 							<m_Name text="Dronelast_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2170,7 +2170,7 @@
 							<m_Name text="Dronelast_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2217,7 +2217,7 @@
 							<m_Name text="Dronelast_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2264,7 +2264,7 @@
 							<m_Name text="Dronelast_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2311,7 +2311,7 @@
 							<m_Name text="Drone_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2358,7 +2358,7 @@
 							<m_Name text="Drone_Cage"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2405,7 +2405,7 @@
 							<m_Name text="Drone_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2452,7 +2452,7 @@
 							<m_Name text="Drone_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2499,7 +2499,7 @@
 							<m_Name text="Drone_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2546,7 +2546,7 @@
 							<m_Name text="Edict"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2593,7 +2593,7 @@
 							<m_Name text="Educator"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2640,7 +2640,7 @@
 							<m_Name text="Eidolon"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2687,7 +2687,7 @@
 							<m_Name text="Embarked_Ship"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2734,7 +2734,7 @@
 							<m_Name text="Embarked_Ship_Harmony"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2781,7 +2781,7 @@
 							<m_Name text="Embarked_Ship_Purity"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2828,7 +2828,7 @@
 							<m_Name text="Embarked_Ship_Supremacy"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2875,7 +2875,7 @@
 							<m_Name text="Eradicator"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2922,7 +2922,7 @@
 							<m_Name text="Executor"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -2969,7 +2969,7 @@
 							<m_Name text="Explorer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3016,7 +3016,7 @@
 							<m_Name text="Explorer_Oceanic"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3063,7 +3063,7 @@
 							<m_Name text="Fury"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3110,7 +3110,7 @@
 							<m_Name text="Geliopod"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3157,7 +3157,7 @@
 							<m_Name text="Gladiator"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3204,7 +3204,7 @@
 							<m_Name text="Golem"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3251,7 +3251,7 @@
 							<m_Name text="Ground_Rocktopus"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3298,7 +3298,7 @@
 							<m_Name text="Ground_Rocktopus_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3345,7 +3345,7 @@
 							<m_Name text="Ground_Rocktopus_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3392,7 +3392,7 @@
 							<m_Name text="Ground_Rocktopus_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3439,7 +3439,7 @@
 							<m_Name text="Ground_Rocktopus_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3486,7 +3486,7 @@
 							<m_Name text="Guardian"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3533,7 +3533,7 @@
 							<m_Name text="Gunboat"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3580,7 +3580,7 @@
 							<m_Name text="Gunner"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3627,7 +3627,7 @@
 							<m_Name text="Hellion"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3674,7 +3674,7 @@
 							<m_Name text="Herald"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3721,7 +3721,7 @@
 							<m_Name text="Hydra"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3768,7 +3768,7 @@
 							<m_Name text="Hydracoral_Level1"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3815,7 +3815,7 @@
 							<m_Name text="Hydracoral_Level1_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3862,7 +3862,7 @@
 							<m_Name text="Hydracoral_Level1_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3909,7 +3909,7 @@
 							<m_Name text="Hydracoral_Level1_Lush"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -3956,7 +3956,7 @@
 							<m_Name text="Hydracoral_Level1_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4003,7 +4003,7 @@
 							<m_Name text="Hydracoral_Level2"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4050,7 +4050,7 @@
 							<m_Name text="Hydracoral_Level2_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4097,7 +4097,7 @@
 							<m_Name text="Hydracoral_Level2_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4144,7 +4144,7 @@
 							<m_Name text="Hydracoral_Level2_Lush"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4191,7 +4191,7 @@
 							<m_Name text="Hydracoral_Level2_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4238,7 +4238,7 @@
 							<m_Name text="Hydracoral_Level3"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4285,7 +4285,7 @@
 							<m_Name text="Hydracoral_Level3_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4332,7 +4332,7 @@
 							<m_Name text="Hydracoral_Level3_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4379,7 +4379,7 @@
 							<m_Name text="Hydracoral_Level3_Lush"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4426,7 +4426,7 @@
 							<m_Name text="Hydracoral_Level3_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4473,7 +4473,7 @@
 							<m_Name text="Immortal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4520,7 +4520,7 @@
 							<m_Name text="Kodiak"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4567,7 +4567,7 @@
 							<m_Name text="Kraken"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4614,7 +4614,7 @@
 							<m_Name text="Kraken_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4661,7 +4661,7 @@
 							<m_Name text="Kraken_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4708,7 +4708,7 @@
 							<m_Name text="Kraken_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4755,7 +4755,7 @@
 							<m_Name text="Kraken_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4802,7 +4802,7 @@
 							<m_Name text="Lancer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4849,7 +4849,7 @@
 							<m_Name text="Land_Trader"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4896,7 +4896,7 @@
 							<m_Name text="Land_Trader_F1"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4943,7 +4943,7 @@
 							<m_Name text="Leviathan"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -4990,7 +4990,7 @@
 							<m_Name text="LEV_Destroyer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5037,7 +5037,7 @@
 							<m_Name text="LEV_Tank"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5084,7 +5084,7 @@
 							<m_Name text="Locust"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5131,7 +5131,7 @@
 							<m_Name text="Lurker"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5178,7 +5178,7 @@
 							<m_Name text="Maestro"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5225,7 +5225,7 @@
 							<m_Name text="Makara"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5272,7 +5272,7 @@
 							<m_Name text="Makara_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5319,7 +5319,7 @@
 							<m_Name text="Makara_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5366,7 +5366,7 @@
 							<m_Name text="Makara_Land"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5413,7 +5413,7 @@
 							<m_Name text="Makara_Land_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5460,7 +5460,7 @@
 							<m_Name text="Makara_Land_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5507,7 +5507,7 @@
 							<m_Name text="Makara_Land_Lush"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5554,7 +5554,7 @@
 							<m_Name text="Makara_Land_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5601,7 +5601,7 @@
 							<m_Name text="Makara_Lush"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5648,7 +5648,7 @@
 							<m_Name text="Makara_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5695,7 +5695,7 @@
 							<m_Name text="Mako"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5742,7 +5742,7 @@
 							<m_Name text="Manticore"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5789,7 +5789,7 @@
 							<m_Name text="Manticore_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5836,7 +5836,7 @@
 							<m_Name text="Manticore_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5883,7 +5883,7 @@
 							<m_Name text="Manticore_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5930,7 +5930,7 @@
 							<m_Name text="Manticore_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -5977,7 +5977,7 @@
 							<m_Name text="Marauder"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6024,7 +6024,7 @@
 							<m_Name text="Marine"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6071,7 +6071,7 @@
 							<m_Name text="Minotaur"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6118,7 +6118,7 @@
 							<m_Name text="Missile_Rover"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6165,7 +6165,7 @@
 							<m_Name text="Nano_Hive"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6212,7 +6212,7 @@
 							<m_Name text="Needlejet"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6259,7 +6259,7 @@
 							<m_Name text="Orbital_Rocktopus"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6306,7 +6306,7 @@
 							<m_Name text="Orbital_Rocktopus_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6353,7 +6353,7 @@
 							<m_Name text="Orbital_Rocktopus_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6400,7 +6400,7 @@
 							<m_Name text="Orbital_Rocktopus_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6447,7 +6447,7 @@
 							<m_Name text="Orbital_Rocktopus_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6494,7 +6494,7 @@
 							<m_Name text="Overseer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6541,7 +6541,7 @@
 							<m_Name text="Patrol_Boat"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6588,7 +6588,7 @@
 							<m_Name text="Poseidon"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6635,7 +6635,7 @@
 							<m_Name text="Predator"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6682,7 +6682,7 @@
 							<m_Name text="Prophet"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6729,7 +6729,7 @@
 							<m_Name text="Punisher"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6776,7 +6776,7 @@
 							<m_Name text="Raider"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6823,7 +6823,7 @@
 							<m_Name text="Ranger"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6870,7 +6870,7 @@
 							<m_Name text="Raptor_Bug"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6917,7 +6917,7 @@
 							<m_Name text="Raptor_Bug_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -6964,7 +6964,7 @@
 							<m_Name text="Raptor_Bug_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7011,7 +7011,7 @@
 							<m_Name text="Raptor_Bug_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7058,7 +7058,7 @@
 							<m_Name text="Raptor_Bug_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7105,7 +7105,7 @@
 							<m_Name text="Reaver"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7152,7 +7152,7 @@
 							<m_Name text="Redeemer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7199,7 +7199,7 @@
 							<m_Name text="Ripper"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7246,7 +7246,7 @@
 							<m_Name text="Ripper_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7293,7 +7293,7 @@
 							<m_Name text="Ripper_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7340,7 +7340,7 @@
 							<m_Name text="Ripper_Lush"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7387,7 +7387,7 @@
 							<m_Name text="Ripper_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7434,7 +7434,7 @@
 							<m_Name text="SABR"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7481,7 +7481,7 @@
 							<m_Name text="Satellite_Econ_Holomatrix"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7528,7 +7528,7 @@
 							<m_Name text="Satellite_Econ_Orbital_Fabricator"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7575,7 +7575,7 @@
 							<m_Name text="Satellite_Econ_Solar_Collector"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7622,7 +7622,7 @@
 							<m_Name text="Satellite_Econ_Weather_Controller"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7669,7 +7669,7 @@
 							<m_Name text="Satellite_Mil_Orbital_Laser"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7716,7 +7716,7 @@
 							<m_Name text="Satellite_Mil_Phasal_Transporter"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7763,7 +7763,7 @@
 							<m_Name text="Satellite_Mil_Planet_Carver"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7810,7 +7810,7 @@
 							<m_Name text="Satellite_Mil_Tacnet_Hub"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7857,7 +7857,7 @@
 							<m_Name text="Satellite_Orbital_Comm_Relay"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7904,7 +7904,7 @@
 							<m_Name text="Satellite_Orbital_Health_Fixer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7951,7 +7951,7 @@
 							<m_Name text="Satellite_Orbital_Spy_Satellite"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -7998,7 +7998,7 @@
 							<m_Name text="Satellite_Orbital_Station_Sentinel"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8045,7 +8045,7 @@
 							<m_Name text="Satellite_Orbital_Xeno_Siren"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8092,7 +8092,7 @@
 							<m_Name text="Satellite_Res_All_Seeing_Eye"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8139,7 +8139,7 @@
 							<m_Name text="Satellite_Res_Deep_Space_Telescope"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8186,7 +8186,7 @@
 							<m_Name text="Satellite_Res_Lasercom_Satellite"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8233,7 +8233,7 @@
 							<m_Name text="Satellite_Res_Miasmic_Condenser"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8280,7 +8280,7 @@
 							<m_Name text="Satellite_Res_Miasmic_Repulsor"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8327,7 +8327,7 @@
 							<m_Name text="Satellite_Rocket"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8374,7 +8374,7 @@
 							<m_Name text="Savage"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8421,7 +8421,7 @@
 							<m_Name text="Screamer"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8468,7 +8468,7 @@
 							<m_Name text="Sea_Dragon"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8515,7 +8515,7 @@
 							<m_Name text="Sea_Dragon_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8562,7 +8562,7 @@
 							<m_Name text="Sea_Dragon_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8609,7 +8609,7 @@
 							<m_Name text="Sea_Dragon_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8656,7 +8656,7 @@
 							<m_Name text="Sea_Dragon_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8703,7 +8703,7 @@
 							<m_Name text="Sea_Trader"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8750,7 +8750,7 @@
 							<m_Name text="Sentinel"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8797,7 +8797,7 @@
 							<m_Name text="Seraph"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8844,7 +8844,7 @@
 							<m_Name text="Shepherd"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8891,7 +8891,7 @@
 							<m_Name text="Shredder"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8938,7 +8938,7 @@
 							<m_Name text="Shrike"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -8985,7 +8985,7 @@
 							<m_Name text="Shroud"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9032,7 +9032,7 @@
 							<m_Name text="Siege_Worm"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9079,7 +9079,7 @@
 							<m_Name text="Siege_Worm_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9126,7 +9126,7 @@
 							<m_Name text="Siege_Worm_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9173,7 +9173,7 @@
 							<m_Name text="Siege_Worm_Lush"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9220,7 +9220,7 @@
 							<m_Name text="Siege_Worm_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9267,7 +9267,7 @@
 							<m_Name text="Soldier"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9314,7 +9314,7 @@
 							<m_Name text="Striker"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9361,7 +9361,7 @@
 							<m_Name text="Submarine"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9408,7 +9408,7 @@
 							<m_Name text="Tacjet"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9455,7 +9455,7 @@
 							<m_Name text="Tenet"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9502,7 +9502,7 @@
 							<m_Name text="Throne"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9549,7 +9549,7 @@
 							<m_Name text="Tidehunter"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9596,7 +9596,7 @@
 							<m_Name text="Triton"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9643,7 +9643,7 @@
 							<m_Name text="Undertaker"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9690,7 +9690,7 @@
 							<m_Name text="Vindicator"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9737,7 +9737,7 @@
 							<m_Name text="Viper"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9784,7 +9784,7 @@
 							<m_Name text="Virtuoso"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9831,7 +9831,7 @@
 							<m_Name text="Vortex"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9878,7 +9878,7 @@
 							<m_Name text="Warden"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9925,7 +9925,7 @@
 							<m_Name text="Whisper"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -9972,7 +9972,7 @@
 							<m_Name text="Wolf_Beetle"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10019,7 +10019,7 @@
 							<m_Name text="Wolf_Beetle_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10066,7 +10066,7 @@
 							<m_Name text="Wolf_Beetle_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10113,7 +10113,7 @@
 							<m_Name text="Wolf_Beetle_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10160,7 +10160,7 @@
 							<m_Name text="Wolf_Beetle_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10207,7 +10207,7 @@
 							<m_Name text="Worker"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10254,7 +10254,7 @@
 							<m_Name text="Work_Boat"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10301,7 +10301,7 @@
 							<m_Name text="Wrath"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10348,7 +10348,7 @@
 							<m_Name text="Xeno_Cavalry"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10395,7 +10395,7 @@
 							<m_Name text="Xeno_Cavalry_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10442,7 +10442,7 @@
 							<m_Name text="Xeno_Cavalry_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10489,7 +10489,7 @@
 							<m_Name text="Xeno_Cavalry_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10536,7 +10536,7 @@
 							<m_Name text="Xeno_Cavalry_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10583,7 +10583,7 @@
 							<m_Name text="Xeno_Titan"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10630,7 +10630,7 @@
 							<m_Name text="Xeno_Titan_Arid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10677,7 +10677,7 @@
 							<m_Name text="Xeno_Titan_Frigid"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10724,7 +10724,7 @@
 							<m_Name text="Xeno_Titan_Fungal"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-<Element>
+						<Element>
 							<m_Fields>
 								<m_Values/>
 							</m_Fields>
@@ -10771,7 +10771,7 @@
 							<m_Name text="Xeno_Titan_Primordial"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-</Element>
+					</Element>
 				</m_ChildCollections>
 				<m_Name text="Units"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
