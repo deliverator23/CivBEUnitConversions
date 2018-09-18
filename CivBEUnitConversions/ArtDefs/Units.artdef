@@ -536,7 +536,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>0.2</m_fValue>
+										<m_fValue>0.4</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -1202,11 +1202,11 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1.5</m_fValue>
+										<m_fValue>1</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
-										<m_nValue>4</m_nValue>
+										<m_nValue>1</m_nValue>
 										<m_ParamName text="Count"/>
 									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
@@ -2205,7 +2205,7 @@
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
-                                        <m_nValue>4</m_nValue>
+                                        <m_nValue>1</m_nValue>
                                         <m_ParamName text="Count"/>
                                     </Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
@@ -2220,6 +2220,31 @@
 							</m_Fields>
 							<m_ChildCollections/>
 							<m_Name text="A"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects:FloatValue">
+										<m_fValue>1.5</m_fValue>
+										<m_ParamName text="Scale"/>
+									</Element>
+									<Element class="AssetObjects:IntValue">
+										<m_nValue>3</m_nValue>
+										<m_ParamName text="Count"/>
+									</Element>
+									<Element class="AssetObjects:ArtDefReferenceValue">
+										<m_ElementName text="UnitMember_Battlesuit"/>
+										<m_RootCollectionName text="UnitMemberTypes"/>
+										<m_ArtDefPath text="Units.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Units"/>
+										<m_ParamName text="Type"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="B"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 					</Element>
@@ -2534,7 +2559,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>0.4</m_fValue>
+										<m_fValue>0.33</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -2645,7 +2670,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>0.6</m_fValue>
+										<m_fValue>0.75</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -2867,7 +2892,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1</m_fValue>
+										<m_fValue>1.2</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -3644,7 +3669,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1</m_fValue>
+										<m_fValue>1.5</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -7529,7 +7554,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>0.2</m_fValue>
+										<m_fValue>0.4</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -7640,7 +7665,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-                                        <m_fValue>0.2</m_fValue>
+                                        <m_fValue>0.4</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -7751,7 +7776,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-                                        <m_fValue>0.2</m_fValue>
+                                        <m_fValue>0.4</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -7862,7 +7887,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>0.2</m_fValue>
+										<m_fValue>0.4</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -7973,7 +7998,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>0.2</m_fValue>
+										<m_fValue>0.4</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -16076,7 +16101,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1.5</m_fValue>
+										<m_fValue>1.3</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -16187,7 +16212,7 @@
 							<m_Fields>
 								<m_Values>
                                     <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
+                                        <m_fValue>1.3</m_fValue>
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
@@ -16298,7 +16323,7 @@
 							<m_Fields>
 								<m_Values>
                                     <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
+                                        <m_fValue>1.3</m_fValue>
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
@@ -16409,7 +16434,7 @@
 							<m_Fields>
 								<m_Values>
                                     <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
+                                        <m_fValue>1.3</m_fValue>
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
@@ -16520,7 +16545,7 @@
 							<m_Fields>
 								<m_Values>
                                     <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
+                                        <m_fValue>1.3</m_fValue>
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
@@ -23402,11 +23427,11 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1.5</m_fValue>
+										<m_fValue>1.1</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
-										<m_nValue>5</m_nValue>
+										<m_nValue>4</m_nValue>
 										<m_ParamName text="Count"/>
 									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
@@ -23512,14 +23537,14 @@
 						<Element>
 							<m_Fields>
 								<m_Values>
-                                    <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
-                                        <m_ParamName text="Scale"/>
-                                    </Element>
-                                    <Element class="AssetObjects:IntValue">
-                                        <m_nValue>5</m_nValue>
-                                        <m_ParamName text="Count"/>
-                                    </Element>
+									<Element class="AssetObjects:FloatValue">
+										<m_fValue>1.1</m_fValue>
+										<m_ParamName text="Scale"/>
+									</Element>
+									<Element class="AssetObjects:IntValue">
+										<m_nValue>4</m_nValue>
+										<m_ParamName text="Count"/>
+									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
 										<m_ElementName text="UnitMember_Wolf_Beetle_Arid"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
@@ -23623,14 +23648,14 @@
 						<Element>
 							<m_Fields>
 								<m_Values>
-                                    <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
-                                        <m_ParamName text="Scale"/>
-                                    </Element>
-                                    <Element class="AssetObjects:IntValue">
-                                        <m_nValue>5</m_nValue>
-                                        <m_ParamName text="Count"/>
-                                    </Element>
+									<Element class="AssetObjects:FloatValue">
+										<m_fValue>1.1</m_fValue>
+										<m_ParamName text="Scale"/>
+									</Element>
+									<Element class="AssetObjects:IntValue">
+										<m_nValue>4</m_nValue>
+										<m_ParamName text="Count"/>
+									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
 										<m_ElementName text="UnitMember_Wolf_Beetle_Frigid"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
@@ -23734,14 +23759,14 @@
 						<Element>
 							<m_Fields>
 								<m_Values>
-                                    <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
-                                        <m_ParamName text="Scale"/>
-                                    </Element>
-                                    <Element class="AssetObjects:IntValue">
-                                        <m_nValue>5</m_nValue>
-                                        <m_ParamName text="Count"/>
-                                    </Element>
+									<Element class="AssetObjects:FloatValue">
+										<m_fValue>1.1</m_fValue>
+										<m_ParamName text="Scale"/>
+									</Element>
+									<Element class="AssetObjects:IntValue">
+										<m_nValue>4</m_nValue>
+										<m_ParamName text="Count"/>
+									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
 										<m_ElementName text="UnitMember_Wolf_Beetle_Fungal"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
@@ -23845,14 +23870,14 @@
 						<Element>
 							<m_Fields>
 								<m_Values>
-                                    <Element class="AssetObjects:FloatValue">
-                                        <m_fValue>1.5</m_fValue>
-                                        <m_ParamName text="Scale"/>
-                                    </Element>
-                                    <Element class="AssetObjects:IntValue">
-                                        <m_nValue>5</m_nValue>
-                                        <m_ParamName text="Count"/>
-                                    </Element>
+									<Element class="AssetObjects:FloatValue">
+										<m_fValue>1.1</m_fValue>
+										<m_ParamName text="Scale"/>
+									</Element>
+									<Element class="AssetObjects:IntValue">
+										<m_nValue>4</m_nValue>
+										<m_ParamName text="Count"/>
+									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
 										<m_ElementName text="UnitMember_Wolf_Beetle_Primordial"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
@@ -24294,7 +24319,7 @@
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
-										<m_nValue>3</m_nValue>
+										<m_nValue>2</m_nValue>
 										<m_ParamName text="Count"/>
 									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
@@ -24405,7 +24430,7 @@
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
-                                        <m_nValue>3</m_nValue>
+                                        <m_nValue>2</m_nValue>
                                         <m_ParamName text="Count"/>
                                     </Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
@@ -24516,7 +24541,7 @@
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
-                                        <m_nValue>3</m_nValue>
+                                        <m_nValue>2</m_nValue>
                                         <m_ParamName text="Count"/>
                                     </Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
@@ -24627,7 +24652,7 @@
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
-                                        <m_nValue>3</m_nValue>
+                                        <m_nValue>2</m_nValue>
                                         <m_ParamName text="Count"/>
                                     </Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
@@ -24738,7 +24763,7 @@
                                         <m_ParamName text="Scale"/>
                                     </Element>
                                     <Element class="AssetObjects:IntValue">
-                                        <m_nValue>3</m_nValue>
+                                        <m_nValue>2</m_nValue>
                                         <m_ParamName text="Count"/>
                                     </Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
